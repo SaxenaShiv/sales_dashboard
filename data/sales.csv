@@ -1,0 +1,1001 @@
+order_id,order_date,product_name,category,region,quantity,unit_price,revenue
+7410595299,12/1/2025,Coconut Water,Food - Beverages,Arizona,16,763.92,12222.72
+2056007495,4/29/2025,Energy Protein Bars,Food - Snacks,Texas,17,3065.34,52110.78
+9645233240,2/15/2025,Fridge Magnet Set,Home,Louisiana,14,2983.9,41774.6
+5198918385,2/3/2025,Classic Cheeseburger Mix,Food - Meats,Texas,39,2235.25,87174.75
+4351193174,3/1/2025,Set of Silicone Cooking Utensils,Kitchen,Florida,49,1723.09,84431.41
+2432386752,7/15/2025,Pet Hair Vacuum Attachment,Pets,Ohio,42,4299.2,180566.4
+2638408727,11/28/2025,Sourdough Bread,Food - Bakery,New York,49,2234.53,109491.97
+1245081292,6/19/2025,Peanut Butter,Food - Condiments,Nebraska,34,4215.21,143317.14
+9252620524,4/9/2025,Chic Ankle Strap Heels,Clothing - Shoes,New York,46,3533.12,162523.52
+2036601367,4/23/2025,Foldable Electric Scooter,Outdoor,California,2,4688.87,9377.74
+5285245036,10/29/2025,Kids' Gardening Tools Set,Toys,California,22,1473.91,32426.02
+1906202265,3/21/2025,Pet Caress Brush,Pets,Virginia,27,2374.96,64123.92
+4883755398,1/22/2025,Air Fryer,Kitchen,Maryland,1,4608.64,4608.64
+7450638797,12/17/2025,Breathable Face Mask Set,Health,Texas,25,741.63,18540.75
+0693262613,5/28/2025,Wireless Smart Plug,Smart Home,Ohio,10,3627.72,36277.2
+4826630174,10/1/2025,Savory Snack Mix,Food - Snacks,Texas,11,304.13,3345.43
+1900994615,7/8/2025,Baby Monitor,Baby,District of Columbia,23,1860.91,42800.93
+8592949904,1/22/2025,Folding Pocket Knife,Tools,Ohio,15,4896.1,73441.5
+9729356564,10/16/2025,Smoked Gouda Cheese,Food - Dairy,New York,28,3075.54,86115.12
+3232359019,8/11/2025,Roasted Vegetable Medley,Food - Frozen Foods,Louisiana,47,4423.97,207926.59
+6623157735,11/14/2025,Adjustable Laptop Desk,Office,Washington,48,1443.71,69298.08
+9535258052,9/20/2025,Balsamic Glaze,Food - Condiments,Utah,10,703.03,7030.3
+2057824799,3/29/2025,Cranberry Lime Sparkling Water,Food - Beverages,North Carolina,30,2859.74,85792.2
+0345223462,1/18/2025,Low-Fat Yogurt,Food - Dairy,Texas,49,944.45,46278.05
+6256215494,6/2/2025,Ramen Noodles,Food - Pasta,Florida,41,2902.54,119004.14
+7347485975,11/11/2025,Electric Knife,Kitchen,Iowa,4,3188.98,12755.92
+1124762078,3/23/2025,Honeycrisp Apples,Food - Produce,Tennessee,8,1889.97,15119.76
+0345348974,5/10/2025,Teriyaki Tofu Stir-Fry,Food - Prepared Meals,California,29,1680.3,48728.7
+0439324955,6/26/2025,Wireless HDMI Transmitter,Electronics,New Mexico,27,3247.55,87683.85
+1742696945,1/19/2025,Pecan Pie Filling,Food - Baking Goods,New York,32,2466.49,78927.68
+5359433434,8/29/2025,Smart Home Security Camera,Smart Home,California,38,52.58,1998.04
+7093566480,3/5/2025,Protein Bar Variety Pack,Food - Snacks,Colorado,44,2527.65,111216.6
+0310837960,9/28/2025,Herbal Tea Infuser,Kitchen,Connecticut,50,321.83,16091.5
+5915771882,9/21/2025,Lentil Soup (canned),Food - Canned Goods,Alabama,35,2575.82,90153.7
+8402772927,12/15/2025,Avocado Oil Mayo,Food - Condiments,Florida,1,2180.88,2180.88
+1495426351,1/15/2025,Vanilla Ice Cream,Food - Frozen Foods,Georgia,40,3415.92,136636.8
+1216321132,1/15/2025,Organic Baby Carrots,Food - Fresh Produce,Virginia,5,2910.74,14553.7
+4373403651,6/4/2025,Compact Dishwasher,Home Appliances,Texas,42,4389.95,184377.9
+4880559806,2/22/2025,Mixed Nuts,Food - Snacks,Pennsylvania,32,3872.65,123924.8
+5846474683,1/24/2025,Chocolate Chip Energy Balls,Food - Snacks,New York,37,4764.77,176296.49
+4516457172,11/11/2025,Peanut Butter Pretzel Nuggets,Food - Snacks,Louisiana,31,1757.84,54493.04
+3415550974,10/13/2025,Handheld Shower Head,Bathroom,Texas,7,2523.77,17666.39
+3048794530,7/21/2025,Savory Rice Cakes,Food - Snacks,Georgia,6,2640.19,15841.14
+7597067933,12/7/2025,Chocolate Mint Cookies,Food - Baking,Virginia,38,1992.1,75699.8
+8514260979,1/24/2025,Waterproof Rain Boots,Clothing - Footwear,Utah,5,4869.46,24347.3
+2004191872,8/21/2025,Fleece Throw Blanket,Home,Florida,32,4124.23,131975.36
+7664864518,3/28/2025,Puzzle Mat,Toys,Tennessee,5,2751.17,13755.85
+2325939405,10/23/2025,Cushion Covers,Home,New York,33,561.37,18525.21
+4901422359,1/1/2025,Bock Beer Mustard,Food - Condiments,Michigan,15,3305.13,49576.95
+8447412466,7/14/2025,Multi-Purpose Plant Care Tool,Garden,Ohio,40,4200.64,168025.6
+4877594671,3/18/2025,Portable Charger with Solar Panel,Electronics,Texas,5,1901.62,9508.1
+8148574693,12/6/2025,Honey Roasted Almonds,Food - Snacks,Florida,40,219.95,8798
+9955440880,8/6/2025,Cranberry Citrus Sauce,Food - Condiments,Colorado,50,1007.18,50359
+8228500335,3/18/2025,Vegan Cheese,Food - Dairy Alternatives,Florida,27,4374.09,118100.43
+1602562032,3/1/2025,Insulated Wine Tote,Accessories,California,45,2301.23,103555.35
+9517164963,2/22/2025,Beef Stew Meat,Food - Meat,Alabama,16,1491.79,23868.64
+5765128629,5/17/2025,Lemon Lime Sparkling Water,Food - Beverages,Nevada,31,2369.33,73449.23
+4605460721,2/1/2025,Travel Orthopedic Pillow,Travel,Indiana,13,1945.56,25292.28
+7213074423,2/11/2025,Noise-Canceling Earbuds,Audio,Texas,26,2117.01,55042.26
+9660488793,12/6/2025,Vanilla Almond Granola,Food - Breakfast,Illinois,19,4171.04,79249.76
+1613081693,2/14/2025,Sweet Potato Chips,Food - Snacks,Florida,18,1358.37,24450.66
+3320007025,1/15/2025,Chocolate Coconut Granola,Food - Cereals,Illinois,21,2005.63,42118.23
+2459784678,9/23/2025,Garden Vegetable Chips,Food - Snacks,Iowa,10,3107.7,31077
+9543284040,5/28/2025,Apple Cinnamon Granola,Food - Breakfast,Arizona,48,3134.62,150461.76
+6346133608,1/2/2025,Chia Seeds,Food - Grains,Illinois,2,384.01,768.02
+7677986684,3/28/2025,Digital Food Scale,Kitchen,Michigan,44,4128.85,181669.4
+8610497755,7/8/2025,Bodyweight Resistance Bands,Fitness,California,14,2657.42,37203.88
+7995395132,9/22/2025,Pleated Midi Dress,Clothing - Dresses,Nebraska,11,1471.91,16191.01
+6470231837,8/19/2025,Vegetable Medley,Food - Produce,Massachusetts,36,800.84,28830.24
+7634747858,8/22/2025,Smashed Avocado with Lime,Food - Condiments,Indiana,27,4666.74,126001.98
+2450654887,5/4/2025,Portable Water Filter,Outdoor,Pennsylvania,22,3245.9,71409.8
+3131153415,8/24/2025,Stuffed Peppers with Quinoa,Food - Prepared Meals,West Virginia,10,2663.93,26639.3
+4741443825,10/4/2025,Slim Fit Chinos,Clothing - Pants,Georgia,8,1957.49,15659.92
+5956174803,12/20/2025,Savory Oats,Food - Breakfast,Pennsylvania,16,931.9,14910.4
+7431740085,9/12/2025,Manual Coffee Grinder,Kitchen,Georgia,14,758.62,10620.68
+1859105300,6/20/2025,Smartphone Photography Tripod,Electronics,Alabama,31,71.34,2211.54
+1613888198,2/16/2025,Hand Crank Blender,Kitchen,Alabama,18,324.84,5847.12
+0293450382,7/22/2025,Beef Stew Meat,Food - Meat,Louisiana,19,2387.31,45358.89
+9672351984,12/8/2025,Camera Lens Cleaning Kit,Photography,New York,9,799.89,7199.01
+0696669986,1/13/2025,Cotton Quilted Throw Blanket,Home,Illinois,28,381.18,10673.04
+9298178492,3/4/2025,Plant Pot Drip Trays,Garden,Ohio,21,369.57,7760.97
+9743699775,10/8/2025,Organic Whole Wheat Flour,Food - Baking Goods,Arizona,12,1408.88,16906.56
+8403680899,9/7/2025,Portable Massage Gun,Health,Arkansas,49,684.1,33520.9
+3068020255,9/15/2025,Fitbit Activity Tracker,Fitness,Virginia,50,2791.21,139560.5
+4720941990,12/1/2025,Winter Insulated Jacket,Clothing,Texas,1,4982.83,4982.83
+0180876309,4/5/2025,Mini Electric Kettle,Kitchen,Nevada,50,3142.4,157120
+4666053476,8/22/2025,Ramen Noodles,Food - Pasta,Nevada,47,417.14,19605.58
+8197858241,4/15/2025,Frozen Fruit Medley,Food - Frozen Foods,New Mexico,32,2583.04,82657.28
+4715803313,1/24/2025,Bamboo Memory Foam Pillow,Home,California,46,2002.16,92099.36
+4647332446,3/16/2025,Portable Pet Pooper Scooper,Pets,Florida,27,1825.02,49275.54
+4529220419,9/2/2025,Inflatable Party Cooler,Outdoor,Washington,5,4983.63,24918.15
+3729706497,2/24/2025,Whole Grain Hamburger Buns,Food - Bakery,District of Columbia,38,1508.64,57328.32
+2781676039,6/2/2025,Self-Adhesive Wallpaper,Home,Florida,44,1739.25,76527
+5442551597,5/1/2025,Customizable Name Plate,Office,Kansas,5,1621.6,8108
+4983191755,10/22/2025,Classic Pesto Sauce,Food - Sauces,Texas,7,2632.64,18428.48
+9284053625,4/20/2025,Pocket Blanket,Outdoor,Texas,10,85.33,853.3
+5891324490,9/8/2025,Pet Hair Remover,Pets,Indiana,1,1753.92,1753.92
+8313506121,6/12/2025,Peach Yogurt,Food - Dairy,Nevada,7,3082.15,21575.05
+6900981909,6/6/2025,Bamboo Toothbrush,Health,Idaho,33,4634.66,152943.78
+7228495705,9/13/2025,Cheesy Cauliflower Bake,Food - Frozen Vegetables,California,24,2655.04,63720.96
+0899476708,2/12/2025,Car Windshield Sun Shade,Automotive,Florida,2,4543.77,9087.54
+2274943265,5/9/2025,Honey Roasted Almonds,Food - Snacks,Texas,42,1040.93,43719.06
+4178980823,1/4/2025,Roasted Chickpeas,Food - Snacks,Texas,21,1455.15,30558.15
+5177783928,10/18/2025,Kids' Educational Tablet,Electronics,Florida,50,2670.51,133525.5
+6133983051,2/2/2025,Bluetooth Shower Speaker,Audio,New York,30,1752.63,52578.9
+2062516053,2/20/2025,Caraway Rye Bread,Food - Bakery,Virginia,29,2049.6,59438.4
+1098247841,11/29/2025,Protein Pancake Mix,Food - Breakfast,New York,44,126.04,5545.76
+7849765923,7/4/2025,Rice Cakes,Food - Snacks,New Jersey,12,4897.47,58769.64
+5596793000,8/28/2025,Ergonomic Gaming Chair,Gaming,Texas,5,1781.12,8905.6
+0809687143,3/9/2025,Vanilla Protein Powder,Food - Health/Protein,Missouri,47,3169.01,148943.47
+5409677749,4/5/2025,Water Bottle with Built-in Fruit Infuser,Fitness,Ohio,3,97.53,292.59
+5451936439,5/23/2025,Pomegranate Juice,Food - Beverages,New York,8,3450.62,27604.96
+5806377032,3/14/2025,Garlic Herb Cream Cheese,Food - Dairy,Indiana,45,270.09,12154.05
+0589250868,5/3/2025,Chocolate Almond Milk,Food - Dairy Alternatives,California,38,700.16,26606.08
+7756328256,4/2/2025,Coconut Cream Pie Mix,Food - Baking,Kansas,34,2615.35,88921.9
+2321736453,7/29/2025,Coconut Chips,Food - Snacks,Oregon,27,2203.63,59498.01
+3139921799,3/15/2025,Motorcycle Phone Mount,Automotive,Texas,21,2586.57,54317.97
+5153656209,2/14/2025,Scented Candles,Home,Georgia,25,2760.89,69022.25
+7335087198,10/23/2025,Chipotle Lime Salsa,Food - Condiments,California,42,3275.11,137554.62
+4849363148,9/30/2025,Almond Joy Munch Bars,Food - Snacks,New York,16,4918.04,78688.64
+2792119683,1/25/2025,Creamy Tomato Basil Soup,Food - Canned Goods,Ohio,20,1865.94,37318.8
+5878738643,7/28/2025,Ice Cream Maker,Kitchen,Pennsylvania,33,1462.42,48259.86
+5024074017,2/25/2025,Children's Garden Tool Set,Garden,California,34,2669.17,90751.78
+7212481238,5/22/2025,Inflatable Party Cooler,Outdoor,Texas,30,3334.61,100038.3
+5344679394,3/13/2025,Frozen Berry Medley,Food - Frozen Foods,North Carolina,44,948.38,41728.72
+9582556846,5/20/2025,Tuscan Bean Soup,Food - Canned Goods,Alabama,8,3758.02,30064.16
+7888935028,5/18/2025,Plant Watering Spikes,Garden,Maryland,17,3120.46,53047.82
+0661029964,3/15/2025,Chocolate Chip Pancake Mix,Food - Bakery,Virginia,34,1017.7,34601.8
+2959722639,4/29/2025,Almond Butter Cups,Food - Snacks,Virginia,10,153.86,1538.6
+8540153076,8/18/2025,Cereal Dispenser with Portion Control,Kitchen,California,50,4173.76,208688
+1567552447,8/22/2025,Pet Water Fountain,Pets,Pennsylvania,7,840.97,5886.79
+1696034515,11/12/2025,Art Supplies Organizer,Art Supplies,Utah,14,4308.43,60318.02
+2771507870,9/22/2025,Spicy Kimchi,Food - Condiments,South Carolina,23,1897.53,43643.19
+2951660626,9/16/2025,Bicycle Lock,Bicycles,Indiana,38,3094.69,117598.22
+2258611555,11/30/2025,Electric Toothbrush Holder,Health,Georgia,30,2426.49,72794.7
+1116408686,5/3/2025,Smartphone Stand,Accessories,California,48,1422.98,68303.04
+9105678064,11/18/2025,Chia Seeds,Food - Grains,Utah,25,4836.24,120906
+5738112199,7/7/2025,Chicken Broth,Food - Canned Goods,Colorado,29,1461.73,42390.17
+3618420439,3/1/2025,DIY Lip Balm Kit,Crafts,Tennessee,26,1527.41,39712.66
+6959473209,12/27/2025,Home Cleaning Robot,Home Appliances,New York,42,1607.39,67510.38
+2888457393,1/5/2025,Fleece Throw Blanket,Home,Oklahoma,15,2857.89,42868.35
+4739765357,4/26/2025,Grilled Veggie Burgers,Food - Meat Alternatives,Oregon,19,1599.71,30394.49
+0633841048,5/6/2025,Organic Quinoa Chips,Food - Snacks,Utah,46,3943.1,181382.6
+0010005803,9/14/2025,Canned Coconut Milk,Food - Canned Goods,Pennsylvania,36,2459.28,88534.08
+0851469191,9/27/2025,Camping Chair,Outdoor,Massachusetts,24,4861.19,116668.56
+7140308462,4/29/2025,Portable Phone Charger,Accessories,Kansas,28,2901.57,81243.96
+2449521569,10/6/2025,Savory Breakfast Sausage,Food - Meats,Washington,13,1945.78,25295.14
+2339897718,8/19/2025,Plant Watering Spikes,Garden,Massachusetts,46,2775.67,127680.82
+1358378355,11/26/2025,Adjustable Pet Feeder,Pets,Florida,6,4538.73,27232.38
+9929111123,7/2/2025,Marinated Artichokes,Food - Vegetables,Utah,46,4370.24,201031.04
+2475720921,9/26/2025,Window Bird Feeder,Outdoor,North Carolina,2,2285.13,4570.26
+7181129694,5/18/2025,Lemon Lime Sparkling Water,Food - Beverages,Nevada,21,1109,23289
+1487880596,2/24/2025,Organic Brown Sugar,Food - Baking,Louisiana,27,96.02,2592.54
+9925217393,8/12/2025,Pet Bed with Removable Cover,Pets,Florida,34,1476.07,50186.38
+3463948176,2/7/2025,Instant Mashed Potatoes,Food - Sides,Minnesota,25,1759.06,43976.5
+5079600659,5/13/2025,Hydration Backpack,Outdoor,Colorado,43,307.3,13213.9
+6328650329,12/3/2025,Beef Sirloin Steak,Food - Meat,Kentucky,9,3423.19,30808.71
+5447542529,7/7/2025,Sweetened Condensed Milk,Food - Baking Goods,Virginia,35,3316.21,116067.35
+4006184131,3/13/2025,Travel Orthopedic Pillow,Travel,New York,1,4313.37,4313.37
+7969672019,5/24/2025,Fishing Tackle Box,Outdoor,Florida,22,4790.09,105381.98
+9741281722,6/14/2025,Zucchini,Food - Produce,District of Columbia,44,1180.23,51930.12
+2817104153,12/1/2025,Sculpting Kit,Art Supplies,Texas,33,518.08,17096.64
+0318362112,10/13/2025,Sporty Leggings,Clothing - Activewear,Virginia,11,192.68,2119.48
+9383024410,4/23/2025,Brazil Nuts,Food - Nuts,California,8,667.27,5338.16
+9416317373,12/6/2025,Chipotle Lime Salsa,Food - Condiments,Nebraska,28,1669.59,46748.52
+8790786467,4/2/2025,Chili Lime Shrimp,Food - Seafood,Texas,19,4925.72,93588.68
+2350014649,7/5/2025,Outdoor Inflatable Pool,Outdoor,Iowa,5,2973.61,14868.05
+1097648362,6/18/2025,Nutty Granola Clusters,Food - Cereal,Nevada,11,1739.89,19138.79
+7186176119,8/7/2025,Gardening Tools Set,Garden,Nebraska,11,2154.33,23697.63
+2903896577,3/21/2025,Smart Air Purifier,Home,Nevada,40,1666.91,66676.4
+1869233506,8/19/2025,Kids' Gardening Kit,Toys,Texas,34,2637.19,89664.46
+7499670708,4/15/2025,Memory Foam Mattress Topper,Home,New York,21,790.88,16608.48
+9557238682,2/15/2025,Buffalo Style Cauliflower Bites,Food - Frozen Vegetables,Virginia,42,1684.64,70754.88
+4900141232,2/8/2025,Miso Dressing,Food - Dressings,Illinois,46,658.2,30277.2
+0177891831,5/18/2025,Multifunctional Baby Bottle Warmer,Baby,Texas,9,719.54,6475.86
+8665405267,5/16/2025,Cinnamon Raisin Bread,Food - Bakery,Texas,4,4443.72,17774.88
+8605727004,6/9/2025,Instant Mashed Potatoes,Food - Sides,New York,9,555.65,5000.85
+7932741653,10/8/2025,Garden Tool Belt,Garden,Florida,50,483.92,24196
+3219801927,11/23/2025,Decorative LED Neon Sign,Home,California,21,2891.43,60720.03
+2166192440,3/12/2025,Vanilla Protein Powder,Food - Health/Protein,Minnesota,8,1478.37,11826.96
+4501467681,6/9/2025,Wireless Charger Stand,Electronics,Michigan,17,2717.42,46196.14
+9270795659,6/13/2025,Field Journal,Books,California,43,3726.24,160228.32
+3956696557,8/18/2025,Baby Monitor,Baby,Alabama,32,89.26,2856.32
+6644605524,2/25/2025,Vegetable Pizza Rolls,Food - Frozen Foods,Maryland,37,257.19,9516.03
+3508165221,6/12/2025,Garlic Breadsticks,Food - Sides,California,26,2794.39,72654.14
+9272356210,4/9/2025,Sriracha Honey Glaze,Food - Sauces,Nebraska,23,1616.09,37170.07
+6531800380,6/3/2025,Board Game,Toys,Tennessee,10,12.68,126.8
+8707603843,8/28/2025,Multi-Purpose Plant Care Tool,Garden,Texas,43,2361.66,101551.38
+0553756109,3/12/2025,Mango Chia Pudding,Food - Snacks,California,42,1496.2,62840.4
+0326356010,8/15/2025,Travel Jewelry Case,Accessories,Illinois,21,3715.32,78021.72
+8975247422,7/2/2025,Whole Wheat Bread,Food - Bakery,Florida,49,3652.43,178969.07
+2883239967,5/13/2025,Cat Tree,Pets,Florida,26,1327.81,34523.06
+0084672927,6/7/2025,Handheld Garment Steamer,Home,Florida,7,2459.29,17215.03
+1127767119,6/10/2025,Caramel Sauce,Food - Condiments,Hawaii,18,1175.83,21164.94
+6050829942,8/30/2025,Sweet Potato Noodles,Food - Pasta,Georgia,28,1267.33,35485.24
+7038007300,3/28/2025,Ice Cream Scoop,Kitchen,Tennessee,16,3675.63,58810.08
+5141978885,2/21/2025,Tailored Dress Pants,Clothing - Bottoms,Texas,4,633.92,2535.68
+8300374760,8/16/2025,Ice Pack,Health,Arizona,37,3872.56,143284.72
+9609469027,3/27/2025,Pineapple Chunks (canned),Food - Fruits,Vermont,22,1244.49,27378.78
+5352891666,5/8/2025,Animal Paw Print Soap Dispenser,Home,Tennessee,22,1336.21,29396.62
+7309765567,9/18/2025,Kids' Dinosaur-Themed Lunchbox,Accessories,Mississippi,30,1585.34,47560.2
+6237903380,1/24/2025,Compressed Towel Tablets,Travel,Georgia,3,73.21,219.63
+8699309910,10/2/2025,Body Pillow Case,Home,West Virginia,23,4206.45,96748.35
+4369732468,7/31/2025,Elegant Maxi Skirt,Clothing - Bottoms,California,30,2026.33,60789.9
+5833939712,12/23/2025,Multi-Purpose Plant Care Tool,Garden,Alabama,25,1401.49,35037.25
+2569194824,4/11/2025,Garden Hoses with Expandable Features,Garden,Colorado,10,498.8,4988
+5872751354,11/3/2025,Lemon Pepper Seasoning,Food - Seasonings,California,47,3673.42,172650.74
+1893364372,3/17/2025,Adjustable Height Standing Desk Converter,Office,Nevada,19,1328.7,25245.3
+1926086228,7/7/2025,Microfiber Cleaning Cloths,Home,California,2,4535.8,9071.6
+4381523903,10/28/2025,Almond Milk Yogurt,Food - Dairy Alternatives,Alabama,15,4318.73,64780.95
+8986769506,8/7/2025,Smart WiFi Plug,Smart Home,South Carolina,29,2913.22,84483.38
+2700750756,10/18/2025,Buffalo Chicken Dip,Food - Dips,Texas,21,1007.32,21153.72
+0776987739,8/30/2025,Herbed Chicken Breast,Food - Meat,California,27,2363.6,63817.2
+1153459361,11/19/2025,Trendy Bomber Jacket,Clothing - Outerwear,Virginia,13,2964.97,38544.61
+0744041325,8/15/2025,Basketball,Sports,Texas,23,4086.1,93980.3
+7842729298,1/17/2025,Sliced Provolone Cheese,Food - Dairy,Alaska,48,4869.9,233755.2
+2356550704,10/8/2025,Pumpkin Ice Cream,Food - Frozen Foods,Ohio,38,2205.3,83801.4
+1209289024,9/30/2025,Rolling Cooler,Outdoor,North Carolina,33,3993.88,131798.04
+9568865535,9/21/2025,Travel Jewelry Organizer,Accessories,Iowa,11,2087.57,22963.27
+3628892295,2/15/2025,LED Christmas Tree Lights,Home,Texas,26,3586.92,93259.92
+5843275272,7/27/2025,Under Desk Footrest,Office,Pennsylvania,11,4793.62,52729.82
+0461014521,4/20/2025,Faux Leather Leggings,Clothing - Pants,North Carolina,2,3510.59,7021.18
+9043387533,11/9/2025,Dish Rack,Kitchen,Florida,8,2598.02,20784.16
+4171780322,12/11/2025,Comfortable Jogger Pants,Clothing - Bottoms,Florida,5,3053.33,15266.65
+0799494305,11/27/2025,Classic Beef Chili,Food - Canned Goods,Ohio,3,1212.65,3637.95
+6791072083,8/19/2025,Outdoor Picnic Blanket,Outdoor,Michigan,47,4757.53,223603.91
+9004280693,5/5/2025,Pepperoni Pizza Roll-Ups,Food - Frozen Foods,Mississippi,34,2888.18,98198.12
+0236117572,7/23/2025,LED Desk Lamp with USB Charging Port,Office,Texas,8,3093.78,24750.24
+5489546131,3/13/2025,Frozen Fruit Medley,Food - Frozen Foods,Texas,38,2821.75,107226.5
+6910144171,9/2/2025,Kid's Fruit Snacks,Food - Snacks,Arizona,15,4810.82,72162.3
+0542437899,3/4/2025,Sun-Dried Tomatoes,Food - Vegetables,Texas,4,4213.79,16855.16
+3363268408,8/10/2025,Vegetable Potstickers,Food - Frozen Food,Illinois,7,2706.48,18945.36
+9406135000,2/16/2025,Chocolate Raspberry Tart,Food - Bakery,Hawaii,9,3753.5,33781.5
+2581118180,8/23/2025,USB-C Hub,Computers,Oregon,20,4616.71,92334.2
+7680237670,1/14/2025,Wall-Mounted Bookshelf,Home,Idaho,6,3352.02,20112.12
+0717897788,9/17/2025,Outdoor Picnic Blanket,Outdoor,Massachusetts,39,1664.14,64901.46
+2308075597,4/16/2025,Vanilla Almond Granola,Food - Breakfast,Colorado,18,4335.53,78039.54
+9310888865,3/23/2025,Honey mustard chicken tenders,Food - Meat,Michigan,20,2903.03,58060.6
+7615439973,12/1/2025,Truffle Parmesan Fries,Food - Snacks,Florida,3,4549.14,13647.42
+3800933020,2/24/2025,Creamy Garlic Dressing,Food - Condiments,Ohio,42,2810.34,118034.28
+5215718504,8/28/2025,Garlic and Herb Rub,Food - Spices,Iowa,15,4583.53,68752.95
+2574417232,1/12/2025,Almond Joy Bars,Food - Confectionery,Nebraska,3,4629.04,13887.12
+1274211743,6/7/2025,Stuffed Peppers with Quinoa,Food - Prepared Meals,Alaska,43,210.32,9043.76
+0317630253,11/3/2025,Non-Stick Baking Sheet,Kitchen,Pennsylvania,35,205.28,7184.8
+1942885873,10/2/2025,Californian Raisins,Food - Dried Fruits,Georgia,29,1132.96,32855.84
+9721653802,3/18/2025,Organic Quinoa,Food - Grains,New York,30,3094.88,92846.4
+2919525654,9/22/2025,Window Bird Feeder with Suction Cups,Outdoor,Pennsylvania,47,3613.61,169839.67
+1999204654,4/19/2025,Casual Long Cardigan,Clothing - Outerwear,Washington,46,970.73,44653.58
+1803093145,11/9/2025,Taro Chips,Food - Snacks,California,37,3201.64,118460.68
+3977185063,4/25/2025,Men's Waterproof Hiking Boots,Footwear,Iowa,18,774.42,13939.56
+4248423642,2/6/2025,Smart Air Purifier,Home,Texas,25,3666.42,91660.5
+9382006117,5/2/2025,Spicy Chicken Wings,Food - Meat,Tennessee,2,4936.7,9873.4
+3769229088,9/14/2025,Bamboo Cutting Board Set,Kitchen,Washington,14,3450.76,48310.64
+5937398203,4/25/2025,Smart Light Switch,Smart Home,Florida,19,3684.37,70003.03
+4427442617,4/27/2025,Pet Safety Belt for Car,Pets,Oregon,7,230.96,1616.72
+7297496480,8/21/2025,Hiking Water Bottle with Filter,Outdoor,Mississippi,34,2831.53,96272.02
+2707556696,9/19/2025,Coconut Chia Seed Pudding,Food - Snacks,South Dakota,46,2008.09,92372.14
+8409217813,8/26/2025,Smartphone Tripod with Remote,Photography,Florida,50,4054.6,202730
+7148456533,11/15/2025,Cold Brew Coffee Maker,Kitchen,Ohio,40,1121.65,44866
+9252303820,11/13/2025,Mashed Sweet Potatoes,Food - Sides,Missouri,41,303.11,12427.51
+4820335014,7/9/2025,Personal Blender with Travel Lid,Kitchen,Ohio,19,191.55,3639.45
+6654806344,8/7/2025,Winter Knit Beanie,Clothing,Texas,45,4852.94,218382.3
+5251104979,5/8/2025,Jigsaw Puzzle,Toys,Illinois,36,4618.64,166271.04
+6501327288,5/23/2025,Cranberry Orange Juice,Food - Beverages,Louisiana,6,1735.65,10413.9
+1803957689,11/29/2025,Sliced Ham,Food - Meat,Oregon,3,186.07,558.21
+3557057860,12/11/2025,Coconut Yogurt,Food - Dairy Alternatives,Wisconsin,49,4019.9,196975.1
+9708441503,3/7/2025,Coconut Milk Yogurt,Food - Dairy Alternatives,Iowa,44,1683.26,74063.44
+8293354208,3/22/2025,Travel Organizer,Travel,Florida,31,2374.22,73600.82
+7977325535,5/23/2025,Herbed Couscous,Food - Grains,Florida,5,2687.6,13438
+4615391498,11/25/2025,Travel Orthopedic Pillow,Travel,Ohio,36,4752.7,171097.2
+3386539742,8/28/2025,Wall Art Stickers,Home,New Jersey,28,3017.66,84494.48
+5883583466,5/13/2025,Peach Halves (canned),Food - Canned Goods,Alabama,17,4818.13,81908.21
+6806219489,11/9/2025,Electric Bike,Bicycles,Colorado,26,1332.09,34634.34
+5454997528,11/22/2025,Drone,Electronics,Virginia,13,4843.5,62965.5
+7546937957,5/16/2025,Magnetic Puzzle Board,Toys,Florida,7,3300.58,23104.06
+7545872584,1/1/2025,Peach Green Tea,Food - Beverages,District of Columbia,43,1150.21,49459.03
+9953113599,9/5/2025,Flavored Popcorn Mix,Food - Snacks,New York,39,229.83,8963.37
+1038543126,8/15/2025,Ethically-Sourced Coffee Beans,Food - Beverages,Oklahoma,46,2668.97,122772.62
+7963538922,9/27/2025,Honey mustard chicken tenders,Food - Meat,Louisiana,11,4973.29,54706.19
+2899352288,8/20/2025,Reversible Swimming Pool Lounger,Outdoor,Connecticut,29,1374.27,39853.83
+9043179043,12/30/2025,Vegetable Spiralizer,Kitchen,Texas,43,2506.43,107776.49
+9907880736,5/6/2025,Orange Ginger Vinaigrette,Food - Condiments,Nevada,6,59.94,359.64
+8228705050,4/18/2025,Smart Light Switch,Smart Home,New Mexico,21,2836.14,59558.94
+3585894828,7/4/2025,Tattoo Kit,Art Supplies,Louisiana,2,3007.02,6014.04
+5121329652,12/29/2025,Camping Tarp,Outdoor,Florida,31,1463.27,45361.37
+5237585582,9/24/2025,Fitness Activity Journal,Fitness,Arizona,17,3567.3,60644.1
+0351487018,5/9/2025,Tattoo Kit,Art Supplies,Tennessee,49,355.19,17404.31
+1984686909,1/26/2025,Weighted Blanket for Adults,Health,Pennsylvania,34,3336.59,113444.06
+3725931569,8/22/2025,Chewy Granola Bars,Food - Snacks,Oklahoma,9,4811.16,43300.44
+3536244513,7/5/2025,Vanilla Protein Powder,Food - Health/Protein,Illinois,22,94.26,2073.72
+4333339383,9/21/2025,Digital Drawing Tablet,Art Supplies,California,17,2116.14,35974.38
+1952472652,2/23/2025,Spicy Thai Coconut Soup,Food - Soups,Texas,9,2513.88,22624.92
+0166880027,12/7/2025,LED Camping Lantern with USB Charging,Outdoor,New Jersey,47,3338.18,156894.46
+1633635414,4/26/2025,Avocado Oil Mayo,Food - Condiments,California,15,1898.04,28470.6
+0034285334,2/19/2025,Artisan Pickles,Food - Condiments,California,1,2351.1,2351.1
+2972848179,10/11/2025,Travel Hair Straightener,Beauty,Texas,14,1201.31,16818.34
+5725556573,3/7/2025,Pet Leash,Pets,Florida,35,2381.41,83349.35
+2141206669,6/7/2025,Multi-Tool,Outdoor,Michigan,18,3049.65,54893.7
+6920771241,8/2/2025,Basil Pesto Pasta,Food - Prepared Meals,Connecticut,4,3082.18,12328.72
+9937132061,11/5/2025,Honey Mustard Pretzel Bites,Food - Snacks,Maryland,39,4529.69,176657.91
+2436396515,10/29/2025,Almond Joy Bars,Food - Confectionery,Georgia,27,3935.63,106262.01
+7860614839,2/15/2025,Vegan Cheese,Food - Dairy Alternatives,Virginia,29,2310.48,67003.92
+4077861934,10/9/2025,Bamboo Cotton Tank Top,Clothing - Tops,Alabama,46,2514.79,115680.34
+3005339084,5/9/2025,Chipotle Black Bean Burger,Food - Meats,California,14,1897.46,26564.44
+3345182254,3/22/2025,Electric Screwdriver,Tools,New Mexico,39,2693.53,105047.67
+8110211348,5/25/2025,Pet Grooming Glove,Pets,New York,1,1570.17,1570.17
+9635220774,11/23/2025,Roasted Garlic Butter,Food - Condiments,California,38,1209.24,45951.12
+2273279256,2/4/2025,Window Blinds,Home,Hawaii,37,289.83,10723.71
+5156005764,8/30/2025,Frozen Hash Browns,Food - Frozen Foods,Indiana,16,907.88,14526.08
+0140756930,3/28/2025,Tomato Paste,Food - Canned Goods,Florida,33,3629.65,119778.45
+2016127651,12/21/2025,Spice Rack,Kitchen,Oklahoma,11,3773.02,41503.22
+4035488402,6/16/2025,Outdoor Sports Backpack,Outdoor,Georgia,5,4921.96,24609.8
+3256336426,11/7/2025,USB Flash Drive,Storage,North Carolina,16,4030.6,64489.6
+0784692572,9/21/2025,Pepperoni Pizza Roll-Ups,Food - Frozen Foods,Pennsylvania,46,3644.69,167655.74
+1403561036,7/18/2025,Cranberry Lime Sparkling Water,Food - Beverages,California,44,2350.63,103427.72
+0807242403,4/18/2025,Wooden Children's Play Kitchen,Toys,Tennessee,2,3576.5,7153
+0691099898,2/9/2025,Organic Black Bean Burger,Food - Frozen Foods,Arizona,28,2963.98,82991.44
+9264530207,7/28/2025,Sculpting Kit,Art Supplies,Ohio,48,2387.58,114603.84
+2414829133,10/6/2025,Electric Butter Churn,Kitchen,California,30,749.9,22497
+0522688985,4/23/2025,Wireless Earbuds Case,Accessories,South Carolina,42,2390.29,100392.18
+4175366679,4/15/2025,Honey Garlic Sauce,Food - Sauces,Missouri,7,1559.29,10915.03
+2471274641,11/8/2025,Smartphone Photography Ring Light,Photography,Florida,21,605.55,12716.55
+8923277290,11/24/2025,Pet Hair Remover,Pets,Colorado,17,4441.84,75511.28
+1555635482,7/24/2025,Collapsible Folding Chair,Outdoor,Florida,35,1688.9,59111.5
+9437923612,12/10/2025,Kale & Quinoa Salad Mix,Food - Salads,Iowa,8,356.81,2854.48
+0114690839,5/4/2025,Scent Diffuser,Home,Tennessee,43,3056.48,131428.64
+3365409300,10/20/2025,Mini Indoor Hydroponic Garden,Garden,Texas,10,2395.53,23955.3
+8430351248,4/14/2025,Spice Rack,Kitchen,Illinois,29,1583.79,45929.91
+5298183077,9/22/2025,Cheddar Cheese Crackers,Food - Snacks,Washington,38,3844.79,146102.02
+8364497383,4/19/2025,Garden Hose Reel,Garden,Colorado,49,2932.01,143668.49
+9581412050,12/21/2025,Pepperoni Pizza Rolls,Food - Snacks,Florida,29,1118.31,32430.99
+2089257512,10/15/2025,Honey Glazed Carrots,Food - Produce,Utah,10,106.47,1064.7
+7924308792,9/25/2025,Smart Light Bulbs,Smart Home,Wisconsin,13,4518.4,58739.2
+2656557453,1/8/2025,Sweet Potato Chips,Food - Snacks,Alabama,36,1156.24,41624.64
+5832195787,1/16/2025,Gluten-Free Bread,Food - Bakery,South Carolina,17,1557.23,26472.91
+5480628453,3/23/2025,Golf Polo Shirt,Clothing - Tops,Illinois,26,456.91,11879.66
+6771082628,2/13/2025,Pet Travel Carrier,Pets,Indiana,38,1218.02,46284.76
+3508346455,11/8/2025,Pet Grooming Gloves,Pets,New York,18,73.68,1326.24
+5318888593,9/30/2025,Set of Herb Garden Markers,Garden,Ohio,15,349.24,5238.6
+7326606447,7/7/2025,Incense Holder,Home,Oklahoma,15,3368.87,50533.05
+4289469477,2/25/2025,Rustic Italian Breads,Food - Bakery,Georgia,46,3880.26,178491.96
+7775160705,6/19/2025,Peanut Butter Filled Pretzels,Food - Snacks,Florida,11,2211.46,24326.06
+4226329996,3/19/2025,Beef Enchilada Casserole,Food - Prepared Meals,Missouri,19,3550.11,67452.09
+6859140976,4/7/2025,Canvas Tote Bag,Clothing - Accessories,California,50,3286.2,164310
+0351623310,7/8/2025,Compressed Towel Tablets,Travel,Illinois,13,1809.35,23521.55
+6478210200,9/18/2025,Honey-Balsamic Vinaigrette,Food - Dressing,Louisiana,19,728.03,13832.57
+8256368918,7/11/2025,Weighted Blanket for Adults,Health,New York,27,4777.37,128988.99
+6680067316,3/18/2025,Wireless Charging Station,Electronics,Oklahoma,47,2863.3,134575.1
+9727716105,12/14/2025,Pizza Stone,Kitchen,Pennsylvania,25,398.6,9965
+3300942470,1/29/2025,LED Canopy Lights,Outdoor,Alabama,41,1965.23,80574.43
+6196276816,8/20/2025,Electric Skillet,Kitchen,Louisiana,44,1521.53,66947.32
+5908801259,6/23/2025,Smartphone Stand,Accessories,California,30,753.54,22606.2
+4159843735,10/7/2025,Robot Vacuum Cleaner,Home Appliances,California,22,319.14,7021.08
+4363877456,3/2/2025,Almond Butter Cups,Food - Snacks,California,46,2411.22,110916.12
+3500364020,11/15/2025,Fall-Themed Table Runner,Home,Minnesota,17,2180.96,37076.32
+0436879816,10/3/2025,Pineapple Coconut Rice Mix,Food - Grains,New York,46,1242.73,57165.58
+7134921530,5/20/2025,Multi-Purpose Scissors,Office,California,40,91.82,3672.8
+6286887679,10/11/2025,Bamboo Bathtub Caddy,Home,California,2,4737.71,9475.42
+1492065749,4/23/2025,Sliced Cheese,Food - Dairy,Minnesota,15,1785.29,26779.35
+6944494779,1/2/2025,Smartphone Holder for Car,Automotive,North Carolina,14,3690.44,51666.16
+4729901207,2/11/2025,Arcade Game Machine,Gaming,Indiana,18,4387.28,78971.04
+6888107299,6/13/2025,Ginger Turmeric Tea,Food - Beverages,Florida,50,824.65,41232.5
+2757643118,2/25/2025,Lemon Dill Salmon,Food - Seafood,Florida,24,4079.31,97903.44
+0169381994,10/12/2025,Pet Hair Vacuum Cleaner Attachment,Pets,California,37,3324.45,123004.65
+2258576946,3/31/2025,Backpack,Accessories,Texas,24,2734.11,65618.64
+7451288439,9/8/2025,Fettuccine Alfredo Dinner Kit,Food - Prepared Meals,Kansas,13,4999.83,64997.79
+6502110746,12/2/2025,Nutritional Yeast,Food - Pantry,Michigan,35,2053.87,71885.45
+9461278470,10/23/2025,Interactive Robot Toy,Toys,Minnesota,46,3913.96,180042.16
+6890889789,11/2/2025,Cinnamon Raisin Bread,Food - Bakery,Kansas,23,3482.34,80093.82
+2042090492,8/3/2025,Electric Griddle with Removable Plates,Kitchen,Indiana,4,3126.25,12505
+6428640988,2/2/2025,Eco-Friendly Beeswax Wraps,Kitchen,Connecticut,26,167.53,4355.78
+9520031529,6/4/2025,Organic Coconut Water,Food - Beverages,Iowa,44,4640.74,204192.56
+0219726809,7/23/2025,Vegetarian Stir Fry Sauce,Food - Condiments,Nevada,18,3722.31,67001.58
+9515222559,1/6/2025,Car Sunshade,Automotive,North Carolina,7,2595.68,18169.76
+8458397455,6/3/2025,Fitness Jump Rope with LCD Counter,Fitness,Georgia,28,2338.11,65467.08
+4382093341,7/26/2025,Self-Watering Planter,Garden,Ohio,31,612,18972
+8451848915,12/17/2025,Beef Stew Meat,Food - Meat,North Dakota,23,2578.58,59307.34
+4914976587,3/18/2025,Pumpkin Waffles,Food - Breakfast,Arizona,36,1924.18,69270.48
+2317669623,2/7/2025,Lentil Pasta,Food - Pasta,New York,20,4118.53,82370.6
+2424614458,12/23/2025,Desk Organizer Set,Office,Alabama,36,1444.94,52017.84
+5558005971,12/23/2025,Canned Black Beans,Food - Canned Goods,Oklahoma,26,919.5,23907
+1873860374,8/11/2025,Honey Mustard Chicken Breasts,Food - Meat,Texas,9,2125.69,19131.21
+9284562023,1/11/2025,Smart Water Bottle,Fitness,Nebraska,46,604.67,27814.82
+4414075203,10/19/2025,Maple Bacon Popcorn,Food - Snacks,Florida,49,2189.09,107265.41
+6456513928,9/17/2025,Teriyaki Chicken Stir-Fry,Food - Frozen Foods,California,41,4106.74,168376.34
+0449599310,3/27/2025,Children's Backpack,Accessories,South Carolina,32,3689.79,118073.28
+6348570231,3/13/2025,Sweet Chili Dipping Sauce,Food - Condiments,New Jersey,12,3950.77,47409.24
+1331921031,5/2/2025,Yoga Strap,Fitness,Ohio,5,3062,15310
+2446306039,8/13/2025,Cheddar & Bacon Potato Skins,Food - Frozen,Indiana,25,1477.14,36928.5
+4833788454,10/5/2025,Summer Tank Dress,Clothing - Dresses,Arkansas,16,4599.25,73588
+3740501316,10/12/2025,Photo Album,Home,Massachusetts,46,4979.83,229072.18
+6498237546,3/20/2025,Bicycle Lock,Bicycles,Florida,5,4097.19,20485.95
+4196092756,12/9/2025,Hand Mixer,Kitchen,Nebraska,8,4549.5,36396
+3068395011,2/22/2025,Maple Bacon Popcorn,Food - Snacks,California,3,1473.64,4420.92
+0339449535,6/7/2025,Electric Wine Opener,Kitchen,Missouri,28,4791.91,134173.48
+4185037260,10/29/2025,Buffalo Stilton Cheese,Food - Cheese,Texas,8,1456.86,11654.88
+6527132085,11/1/2025,Microfiber Cleaning Cloths,Home,Oklahoma,48,2300.69,110433.12
+1904242391,3/22/2025,Peach Halves (canned),Food - Canned Goods,Georgia,18,2457.05,44226.9
+8465801509,1/31/2025,Faux Fur Throw Blanket,Home,Virginia,18,1391.6,25048.8
+3524856284,4/28/2025,Sweet Potato & Kale Hash,Food - Prepared Foods,Connecticut,1,2990.28,2990.28
+5825001212,5/3/2025,Set of Gardening Gloves with Claws,Garden,Massachusetts,14,2446.87,34256.18
+4485208990,3/26/2025,Electric Food Steamer,Kitchen,Alabama,24,1405.54,33732.96
+3235163832,1/9/2025,Weighted Blanket for Adults,Health,New York,24,3537.66,84903.84
+6902191646,6/25/2025,Self-Massaging Pillow,Health,Pennsylvania,17,1566.02,26622.34
+8788774775,5/27/2025,Honey Mustard Dip,Food - Condiments,Indiana,36,3466.09,124779.24
+6901724160,3/13/2025,Whole Grain Mustard,Food - Condiments,Arizona,48,1180.65,56671.2
+9172294469,11/8/2025,LED Canopy Lights,Outdoor,Illinois,45,4874.4,219348
+1455566640,5/2/2025,Honey Roasted Almonds,Food - Snacks,Ohio,36,3996.6,143877.6
+6075858571,12/5/2025,Dog Car Seat Cover,Pets,California,49,3410.14,167096.86
+5658142830,10/18/2025,Caribbean Jerk Marinade,Food - Marinades,California,14,2636.58,36912.12
+4591999246,11/12/2025,Sturdy Bookends,Office,Michigan,13,783.15,10180.95
+0773109749,4/26/2025,Smartphone Tripod,Photography,Wisconsin,39,4203.64,163941.96
+5459127963,6/17/2025,Herb Seasoned Croutons,Food - Salad Toppings,California,47,4993.66,234702.02
+7279658989,3/20/2025,Reversible Swimming Pool Lounger,Outdoor,Nevada,45,1375.02,61875.9
+0602447828,9/20/2025,Photo Album,Home,California,16,3680.03,58880.48
+9921786954,4/7/2025,Cat Tree with Scratching Posts,Pets,Pennsylvania,12,2668.84,32026.08
+8860375991,9/14/2025,Gardening Tools Set,Garden,Pennsylvania,24,1125.84,27020.16
+5407860376,12/18/2025,Maple Oatmeal,Food - Breakfast,Illinois,39,3488.24,136041.36
+1923691007,1/5/2025,Peanut Butter Chocolate Chip Bars,Food - Snacks,California,9,2769.21,24922.89
+9768353457,9/6/2025,Vegetable Stir-Fry Sauce,Food - Sauces,Montana,29,4419.99,128179.71
+0476364736,10/4/2025,Natural Fruit Snacks,Food - Snacks,Connecticut,24,1591.27,38190.48
+1400405955,12/10/2025,Pumpkin Seeds,Food - Snacks,Texas,32,4685.64,149940.48
+3987974508,10/26/2025,Oven Thermometer,Kitchen,New York,16,3125.2,50003.2
+2255563606,5/23/2025,Folding Backpack Chair,Outdoor,Illinois,34,1402.86,47697.24
+5221677016,5/21/2025,Cinnamon Roll Kit,Food - Baking,California,1,1248.78,1248.78
+2975238525,1/15/2025,Organic Coconut Oil,Food - Oils,District of Columbia,1,2143.19,2143.19
+1404479619,10/25/2025,Reclining Camping Chair,Outdoor,California,5,1229.4,6147
+8660375645,9/24/2025,Camera Lens Cleaning Kit,Photography,Ohio,45,342.54,15414.3
+6119754598,1/28/2025,Children's Gardening Set,Toys,Ohio,50,1869.77,93488.5
+3180766530,1/9/2025,Cotton Sweatpants,Clothing - Bottoms,Florida,36,1312.25,47241
+4480305106,11/21/2025,Pumpkin Ice Cream,Food - Frozen Foods,North Carolina,19,3747.89,71209.91
+8257610852,3/11/2025,Granulated Sugar,Food - Baking,Illinois,21,4270,89670
+4010702001,10/5/2025,Vegan Protein Powder,Health,Missouri,17,3543.23,60234.91
+1812760884,12/15/2025,Key Finder,Accessories,Texas,27,4660.54,125834.58
+5981983531,4/24/2025,Sliced Bell Peppers,Food - Fresh Produce,Kansas,49,2166.79,106172.71
+1242467033,7/2/2025,Sweetened Condensed Milk,Food - Baking Goods,Pennsylvania,2,3061.05,6122.1
+3716493325,10/19/2025,Apricot Jam,Food - Condiments,Illinois,45,3476.95,156462.75
+7514364226,2/2/2025,Rice Cakes,Food - Snacks,Virginia,24,364.44,8746.56
+7280980678,5/18/2025,Chili Garlic Sauce,Food - Condiments,Texas,3,1108.8,3326.4
+8707202423,11/6/2025,Spicy Thai Noodles,Food - Frozen Meals,California,50,2542.15,127107.5
+8864543198,5/23/2025,Bamboo Utensil Set,Kitchen,Alabama,7,2848.14,19936.98
+0772086591,1/13/2025,Tennis Racket,Fitness,District of Columbia,47,4001.51,188070.97
+8230933138,2/26/2025,Coconut Curry Lentil Soup,Food - Canned Goods,Texas,38,2978.38,113178.44
+9406583550,11/22/2025,Sweet Cherry Tomatoes,Food - Produce,Colorado,37,2154.43,79713.91
+4450467353,7/30/2025,Sooji (Semolina),Food - Baking,Texas,33,3883.62,128159.46
+5357106916,3/26/2025,Oven-Baked Cheese Crisps,Food - Snacks,District of Columbia,1,2766.99,2766.99
+2759237400,1/2/2025,Cinnamon Rolls,Food - Bakery,Nevada,45,403.36,18151.2
+5708848405,6/20/2025,Lasagna Noodles,Food - Pasta,Texas,3,2617.25,7851.75
+6152317711,8/19/2025,Solar String Lights,Outdoor,New York,2,2398.16,4796.32
+6727097798,9/30/2025,Pizza Stone,Kitchen,Massachusetts,20,1543.04,30860.8
+5980137432,9/10/2025,Lightweight Workout Tank,Clothing - Activewear,West Virginia,10,1924.82,19248.2
+6363621747,9/21/2025,Herbal Tea Infuser,Kitchen,District of Columbia,16,1892.89,30286.24
+2298364044,2/28/2025,Dark Chocolate Covered Raisins,Food - Snacks,Kentucky,4,3651.13,14604.52
+6939612696,7/10/2025,Sweet BBQ Dipping Sauce,Food - Condiments,New York,40,1022.62,40904.8
+9280336037,2/26/2025,Multicolored LED Strip Lights,Home,Alabama,35,4626.79,161937.65
+1642180580,10/25/2025,Sesame Oil,Food - Oils & Vinegars,District of Columbia,46,2021.91,93007.86
+4097437836,8/24/2025,Trail Mix (Deluxe),Food - Snacks,Massachusetts,46,2336.64,107485.44
+8999660095,10/22/2025,Organic Vanilla Bean Ice Cream,Food - Frozen Desserts,Ohio,43,4363.96,187650.28
+1092539786,3/4/2025,Trendy Bomber Jacket,Clothing - Outerwear,Connecticut,13,2866.25,37261.25
+4090901626,4/6/2025,Collapsible Storage Crates,Home,Pennsylvania,42,934.51,39249.42
+3146851229,8/28/2025,Compact Refrigerator,Home Appliances,Pennsylvania,36,1012.66,36455.76
+1146660499,3/9/2025,Wall-Mounted Bookshelf,Home,Colorado,10,197.4,1974
+2628122561,8/13/2025,Smartphone Photography Tripod,Electronics,Rhode Island,39,3705.53,144515.67
+6479500032,12/10/2025,Tortilla Chips,Food - Snacks,Texas,32,4718.51,150992.32
+5180448980,6/5/2025,Smartphone Hand Grip,Accessories,Alabama,23,2039.19,46901.37
+7224699225,1/11/2025,Red Lentils,Food - Grains,Virginia,36,3395.34,122232.24
+4669636464,12/19/2025,Camping Tent,Outdoor,California,40,792,31680
+7007157114,4/11/2025,Herbal Tea Set,Food,Iowa,38,2440.7,92746.6
+8515468026,2/23/2025,Chili Beans in Sauce,Food - Canned Goods,California,43,1708.58,73468.94
+9574187144,2/24/2025,Mini Projector for Smartphones,Electronics,District of Columbia,42,2498.31,104929.02
+3836267594,10/19/2025,Fitness Balance Ball,Fitness,Nebraska,38,1517.21,57653.98
+0679779590,12/13/2025,Ultraviolet Phone Sanitizer,Health,Alabama,27,3436.99,92798.73
+3800398567,8/9/2025,Car Seat Organizer,Automotive,New York,40,2640.69,105627.6
+4199912258,6/27/2025,Smart Wi-Fi Camera,Smart Home,Ohio,10,2955.03,29550.3
+5148163321,10/1/2025,Lentil Soup (canned),Food - Canned Goods,Washington,47,561.88,26408.36
+3449831097,9/10/2025,Sun-Dried Tomatoes,Food - Vegetables,Kansas,19,3075.85,58441.15
+9279320270,10/16/2025,Green Smoothie Mix,Food - Beverages,Washington,36,1438.81,51797.16
+2826784749,9/9/2025,Asian Stir-Fry Vegetables,Food - Frozen Foods,Missouri,33,1563.86,51607.38
+4991399246,5/6/2025,Greek Yogurt Parfait,Food - Dairy,District of Columbia,50,3434.91,171745.5
+0845603655,12/14/2025,Cat Tree with Scratching Posts,Pets,California,18,4389.86,79017.48
+9959971252,1/20/2025,Dog Car Seat Cover,Pets,District of Columbia,17,3667.93,62354.81
+9484119468,11/2/2025,Dog Collar,Pets,North Dakota,28,3911.31,109516.68
+7976950916,1/26/2025,Honey Sesame Chicken Mix,Food - Frozen Meals,Michigan,13,1607.28,20894.64
+5019227730,7/11/2025,Electric Meat Grinder,Kitchen,Illinois,18,2382.94,42892.92
+0328749893,11/4/2025,Noise-Canceling Earbuds,Audio,North Carolina,5,3707.79,18538.95
+2330967314,4/23/2025,Multicolored LED Strip Lights,Home,New York,25,1514,37850
+4476784321,6/1/2025,Car Phone Mount,Automotive,Virginia,42,2951,123942
+0411715305,7/10/2025,Telescope,Outdoor,Louisiana,32,3960.82,126746.24
+5156411649,3/25/2025,Mango Chili Salsa,Food - Condiments,Ohio,9,1147.38,10326.42
+3036093834,12/7/2025,Vanilla Ice Cream,Food - Frozen Foods,North Carolina,32,4806.6,153811.2
+0896037479,2/18/2025,Essential Oil Diffuser,Health,Arizona,12,3958.08,47496.96
+1288341261,12/25/2025,Pet Bed,Pets,Colorado,16,3924.71,62795.36
+2262821216,7/19/2025,Salsa Verde,Food - Condiments,Minnesota,39,3656.45,142601.55
+6344578467,5/12/2025,Reusable Coffee Filter,Kitchen,Texas,1,319.1,319.1
+5123392548,11/16/2025,Terry Cloth Robe,Clothing - Loungewear,Georgia,7,1699.63,11897.41
+7003791803,11/3/2025,Chocolate Chip Cookie Mix,Food - Baking,Arizona,46,4178.98,192233.08
+0939966972,5/11/2025,Chipotle Black Bean Salad,Food - Salads,Illinois,7,2617.89,18325.23
+9494494563,1/29/2025,Snap-On Tupperware Set,Kitchen,Texas,46,3796.06,174618.76
+1004814860,4/24/2025,Dried Apricots,Food - Dried Fruits,Connecticut,49,1177.92,57718.08
+8443496436,4/19/2025,Screen Cleaning Kit,Electronics,Colorado,26,4059.94,105558.44
+7997887458,9/23/2025,Pet Activity Tracker,Pets,District of Columbia,19,298.61,5673.59
+0167662260,2/14/2025,Chili Con Carne Mix,Food - Spices & Seasonings,Wyoming,22,644.79,14185.38
+6169953616,7/9/2025,Classic Black Dress,Clothing - Dresses,Arizona,5,3683.36,18416.8
+5554940455,7/6/2025,Chili Beans (canned),Food - Canned Goods,Ohio,50,3075.91,153795.5
+0700583025,8/7/2025,Smart LED Desk Lamp,Office,Texas,20,164.92,3298.4
+8131052826,6/5/2025,Matcha Green Tea Powder,Food - Beverages,Maryland,17,3933.05,66861.85
+5777096719,6/11/2025,Vegan Alfredo Sauce,Food - Sauces,Pennsylvania,48,2787.23,133787.04
+4089449146,6/22/2025,Chipotle Sauce,Food - Condiments,Virginia,50,2804.15,140207.5
+2401650334,6/2/2025,Magnetic Chess Set,Toys,Florida,33,4147.69,136873.77
+5615113782,10/22/2025,Lentil Vegetable Stew,Food - Canned Soups,Alabama,1,451.88,451.88
+3573637620,8/2/2025,Baby Monitor,Baby,Florida,25,895.82,22395.5
+8989373271,2/20/2025,Wireless HDMI Receiver,Electronics,California,36,4108.76,147915.36
+6175043456,8/27/2025,Silicone Baking Molds,Kitchen,Arizona,23,4635.66,106620.18
+4682318128,2/8/2025,Pumpkin Waffles,Food - Breakfast,Ohio,6,1025.58,6153.48
+2090221720,6/15/2025,Hand Crank Blender,Kitchen,District of Columbia,23,2835.87,65225.01
+6347057263,12/20/2025,Wireless Charger Stand,Electronics,Florida,33,3189.47,105252.51
+0480537089,5/21/2025,Organic Brown Sugar,Food - Baking,Pennsylvania,14,3833.92,53674.88
+1512916684,8/12/2025,Sour Cream,Food - Dairy,Virginia,49,3088.76,151349.24
+3334853489,12/18/2025,Wireless Induction Charger,Electronics,Colorado,23,3847.47,88491.81
+7920587719,8/15/2025,Cinnamon Spiced Almonds,Food - Snacks,New Jersey,12,4959.7,59516.4
+4023287369,5/16/2025,Compressed Towel Tablets,Travel,California,2,1117.18,2234.36
+5419741547,5/8/2025,Eco-Friendly Yoga Blocks,Fitness,Texas,25,2183.46,54586.5
+0031608329,10/8/2025,Wireless HDMI Transmitter,Electronics,North Carolina,10,1326.41,13264.1
+2056109786,11/11/2025,Roasted Garlic Mashed Potatoes,Food - Frozen Foods,Texas,31,1302.4,40374.4
+6209953530,3/22/2025,Microfiber Cleaning Cloth Set,Home,California,1,4068.06,4068.06
+5433621138,5/29/2025,Spinach Feta Wraps,Food - Deli,New York,17,4354.45,74025.65
+2805001214,10/22/2025,Safety Goggles,Safety,Virginia,40,2290.98,91639.2
+3384239245,4/28/2025,Smartphone Tripod with Bluetooth Remote,Photography,Connecticut,16,2463.42,39414.72
+5555421680,9/8/2025,Vegetable Medley,Food - Produce,North Carolina,3,293.4,880.2
+1156534593,6/26/2025,Miso Soup Starter,Food - Soups,Ohio,21,4792.17,100635.57
+3563061807,9/22/2025,Kids' Activity Book,Books,Virginia,25,4675.13,116878.25
+4504021978,4/14/2025,Personalized Cutting Board,Kitchen,Tennessee,14,3029.2,42408.8
+4683417790,8/19/2025,Honey Wheat Pretzels,Food - Snacks,California,49,1558.42,76362.58
+9815810405,8/22/2025,Oven Mitts with Pocket,Kitchen,Indiana,16,3185.78,50972.48
+3973551758,10/9/2025,Wireless Earbud Silicone Covers,Accessories,Alabama,50,2292.9,114645
+9471893712,4/6/2025,Non-Stick Grill Mat,Outdoor,California,16,1799.34,28789.44
+2987654693,6/27/2025,Biodegradable Dog Waste Bags,Pets,Texas,32,2978.02,95296.64
+4418845186,11/1/2025,Cranberry Lime Sparkling Water,Food - Beverages,Florida,10,129.34,1293.4
+1398405477,1/13/2025,Wireless Earbud Silicone Covers,Accessories,New Jersey,13,2861.15,37194.95
+0544956249,5/31/2025,Habanero Hot Sauce,Food - Condiments,Utah,41,4056.53,166317.73
+5742000480,4/3/2025,Memory Foam Pillow,Home,Texas,31,3642.7,112923.7
+7837000366,9/21/2025,Premium Flashlight,Outdoor,Florida,25,2082.61,52065.25
+0597001839,7/2/2025,Wireless Mouse,Electronics,Texas,20,2647.73,52954.6
+0474956202,7/26/2025,Herb Garlic Butter,Food - Condiments,Nevada,1,3041.25,3041.25
+7250666665,10/17/2025,Heart-Shaped Baking Molds,Kitchen,Missouri,14,2585.01,36190.14
+4419961805,10/23/2025,Peach Green Tea,Food - Beverages,New Mexico,38,428.65,16288.7
+7501021260,1/30/2025,Spaghetti Squash,Food - Produce,District of Columbia,34,832.71,28312.14
+8285113825,3/20/2025,Frozen Acai Purée,Food - Frozen,Washington,22,2073.41,45615.02
+6513788277,2/17/2025,Sesame Noodles,Food - Grab-and-Go,Washington,44,2783.86,122489.84
+2129607713,11/29/2025,Collapsible Folding Chair,Outdoor,Arizona,49,4467.11,218888.39
+3000614494,9/16/2025,Organic Black Bean Burger,Food - Frozen Foods,California,29,1317.93,38219.97
+6375092353,7/15/2025,Herbed Chicken Breast,Food - Meat,California,19,1518.39,28849.41
+2968688723,4/12/2025,Red Lentil Pasta,Food - Pasta,New York,19,793.8,15082.2
+9134950842,6/6/2025,Gingerbread House Kit,Food - Baking,Ohio,47,1166.96,54847.12
+5523378364,5/5/2025,Zesty Garlic Hummus,Food - Snacks,Illinois,25,3177.74,79443.5
+7797842779,6/15/2025,Mini Waffle Maker,Kitchen,California,50,4532.91,226645.5
+4462335856,2/7/2025,Gardening Gloves,Garden,Alabama,17,3045.01,51765.17
+2914329156,12/14/2025,Coconut Flakes,Food - Baking,New York,49,1714.35,84003.15
+5060822672,3/22/2025,Heat-Resistant Silicone Mat,Kitchen,Utah,27,3441.39,92917.53
+6011181376,4/6/2025,Almond Flour Biscuits,Food - Bakery,Michigan,26,4514.95,117388.7
+0029493277,1/10/2025,Peanut Butter Chocolate Chip Bars,Food - Snacks,California,32,1222.69,39126.08
+0256623627,1/23/2025,Slingback Sandals,Clothing - Footwear,South Carolina,31,3360.23,104167.13
+5989548206,10/11/2025,Yoga Mat,Fitness,Florida,13,1589.17,20659.21
+7738271221,6/13/2025,Vegetable and Cheese Quesadillas,Food - Frozen,California,7,2076.45,14535.15
+1199504327,5/31/2025,Digital Thermostat,Home,Nevada,6,1076.64,6459.84
+2721419676,8/25/2025,Pet Carrier Backpack,Pets,Florida,18,1285,23130
+4749634417,5/11/2025,Over-The-Door Shoe Organizer,Home,Kansas,22,3217.61,70787.42
+4169624440,12/14/2025,Wireless Printer,Office,Texas,31,1670.7,51791.7
+3807126600,12/25/2025,Balsamic Glazed Brussels Sprouts,Food - Vegetables,Arizona,40,3606.56,144262.4
+8323470243,10/18/2025,Peach Halves (canned),Food - Canned Goods,New York,19,3132.62,59519.78
+5108525508,12/4/2025,Body Wash,Beauty,Ohio,46,211.88,9746.48
+7435619752,5/6/2025,Outdoor Adventure Backpack,Outdoor,Kansas,35,1667.94,58377.9
+9034201880,3/13/2025,Pineapple Rings,Food - Canned Goods,California,50,2847.14,142357
+0153199962,8/5/2025,Vanilla Almond Granola,Food - Breakfast,Georgia,42,1012.63,42530.46
+7695792276,2/2/2025,Fresh Lemons,Food - Fresh Produce,Florida,43,554.15,23828.45
+6887078430,4/5/2025,Tomato Paste,Food - Canned Goods,Texas,29,2018.17,58526.93
+0316213489,10/19/2025,Teriyaki Salmon Fillets,Food - Seafood,Utah,2,773.71,1547.42
+4978465168,7/20/2025,Spiced Pumpkin Soup,Food - Canned Soups,California,28,2588.68,72483.04
+2491434008,10/2/2025,Protein Bar Variety Pack,Food - Snacks,Florida,1,1384.6,1384.6
+2059839106,6/21/2025,Pecan Nuts,Food - Snacks,California,33,772.02,25476.66
+8763085003,9/27/2025,Two-Tier Fruit Basket,Home,California,15,1328.96,19934.4
+8863712670,7/27/2025,Laptop Stand,Accessories,West Virginia,27,3915.15,105709.05
+8865674962,8/18/2025,Savory Rice Cakes,Food - Snacks,Pennsylvania,32,395.16,12645.12
+9472909019,7/7/2025,Bamboo Toothbrush Holder,Health,Texas,36,4081.4,146930.4
+7530341456,10/20/2025,V-Neck Sweater,Clothing - Tops,Kansas,50,366.01,18300.5
+4467499458,6/2/2025,Screen Cleaning Kit,Electronics,District of Columbia,17,3618.07,61507.19
+5158266336,5/17/2025,LED Table Lamp,Home,Ohio,32,1561.61,49971.52
+9043444650,8/18/2025,Magnetic Spice Containers,Kitchen,Texas,33,4783.35,157850.55
+0829417621,10/29/2025,Organic Quinoa Chips,Food - Snacks,Florida,15,125.7,1885.5
+6339350844,7/12/2025,Corn Tortillas,Food - Bakery,Texas,13,4677.77,60811.01
+3635511730,4/29/2025,Tactical Backpack,Outdoor,California,38,2960.41,112495.58
+4878787600,5/19/2025,Pumpkin Spice Coffee,Food - Beverages,Maryland,13,3942.46,51251.98
+7286311670,1/19/2025,Handheld Shower Head,Bathroom,Arizona,20,4603.82,92076.4
+6496398798,10/2/2025,Pasta (Linguine),Food - Pasta,California,23,4052.57,93209.11
+9907935743,12/24/2025,Zucchini Noodles,Food - Vegetables,Washington,19,756.43,14372.17
+8057237716,1/2/2025,Sweet Potato Fries,Food - Frozen Foods,New Mexico,3,1457.08,4371.24
+8250280148,12/25/2025,Adjustable Height Standing Desk Converter,Office,California,42,3916.69,164500.98
+4258565709,8/6/2025,Stainless Steel Cutlery Set,Kitchen,California,35,1728.23,60488.05
+4542064115,7/20/2025,Safety Goggles,Safety,Texas,50,1184.3,59215
+3977443550,1/4/2025,Leather Wallet,Accessories,Nebraska,1,655.3,655.3
+1269972251,6/10/2025,Dog Training Collar,Pets,Missouri,44,2220.13,97685.72
+4269901551,2/3/2025,Mini Indoor Herb Garden Kit,Garden,North Carolina,5,1345.87,6729.35
+4054944760,5/18/2025,Scent Diffuser,Home,Delaware,31,1994.92,61842.52
+7777371002,8/19/2025,Plant Growing Kit,Garden,Nevada,40,2185.75,87430
+0052549836,6/6/2025,Vegan Taco Seasoning,Food - Spices,California,35,192.42,6734.7
+2019286688,12/5/2025,Puzzle 3D Model Kit,Toys,Virginia,27,3779.39,102043.53
+9094844249,1/10/2025,Fleece Throw Blanket,Home,Virginia,49,2726.72,133609.28
+9336002538,5/15/2025,Pet Carrier Backpack,Pets,Minnesota,21,383.26,8048.46
+2853590577,8/3/2025,Kids' Gardening Kit,Toys,Florida,41,870.67,35697.47
+5387469553,11/11/2025,Apricot Jam,Food - Condiments,Florida,9,2194.81,19753.29
+4445718386,12/19/2025,Inflatable Paddle Board,Outdoor,Connecticut,27,73.87,1994.49
+1405072601,10/21/2025,Honey Garlic Chicken,Food - Meat,Connecticut,35,445.18,15581.3
+2279743825,6/25/2025,Cinnamon Roll Protein Bar,Food - Snacks,Florida,24,3574.73,85793.52
+5137470910,7/24/2025,Dog Frisbee Toy,Pets,Maryland,38,2906.53,110448.14
+6584975606,11/20/2025,Fettuccine Alfredo Dinner Kit,Food - Prepared Meals,Minnesota,26,2875.72,74768.72
+1214099599,3/1/2025,Banana Nut Oatmeal Cups,Food - Breakfast,Ohio,24,4686.82,112483.68
+2312441012,12/30/2025,Classic Cheesecake Mix,Food - Desserts,District of Columbia,20,3039.15,60783
+3427380769,10/24/2025,Garlic & Herb Goat Cheese,Food - Dairy,North Carolina,17,289.49,4921.33
+9522947709,11/13/2025,Organic Blueberries,Food - Fruits,District of Columbia,36,2245.49,80837.64
+5826235241,6/9/2025,Pet First Aid Kit,Pets,North Carolina,40,4220.8,168832
+7722337929,9/23/2025,Wireless Mouse,Electronics,Texas,44,2103.48,92553.12
+4029027989,4/11/2025,Chipotle Lime Salsa,Food - Condiments,Kansas,3,2739.96,8219.88
+3586307810,3/23/2025,Smartphone Tripod with Remote,Photography,Minnesota,26,702.41,18262.66
+2758202492,12/6/2025,Overnight Duffle Bag,Travel,Arizona,6,4294.26,25765.56
+5963365309,7/18/2025,Classic Bagels,Food - Bakery,Georgia,10,4827.05,48270.5
+6481883040,11/14/2025,Vegan Tacos,Food - Frozen Foods,Massachusetts,22,4750.91,104520.02
+0126757631,1/21/2025,Kale Salad with Lemon Dressing,Food - Salads,Wisconsin,20,4209.72,84194.4
+3354232749,10/2/2025,Smartphone Stand,Accessories,Tennessee,31,731.42,22674.02
+8014646541,1/10/2025,Car Phone Mount,Automotive,Louisiana,18,645.65,11621.7
+7359206677,6/3/2025,Bluetooth Sleep Headphones,Audio,Connecticut,22,2419.56,53230.32
+4751832999,9/22/2025,Incense Holder,Home,Florida,16,3940.35,63045.6
+1154703436,6/1/2025,Teriyaki Stir-Fry Sauce,Food - Condiments,South Carolina,48,1523.52,73128.96
+5175804472,10/2/2025,Dried Cranberries,Food - Snacks,Georgia,49,1113.1,54541.9
+1708181458,8/18/2025,Tandoori Chicken Marinade,Food - Condiments,Florida,26,3838.16,99792.16
+7058622906,9/23/2025,DIY Lip Balm Kit,Crafts,Ohio,4,1299.46,5197.84
+4997484555,1/7/2025,Pumpkin Pancake Mix,Food - Breakfast,Virginia,43,2670.68,114839.24
+8913771063,10/18/2025,Chickpea Flour,Food - Baking,Virginia,37,3652.23,135132.51
+8320414806,6/20/2025,Kale Salad with Lemon Dressing,Food - Salads,Oklahoma,23,1555.71,35781.33
+3730059866,2/4/2025,Organic Lentil Soup,Food - Soups,Texas,42,464.42,19505.64
+0508285194,5/13/2025,Bamboo Toothbrush,Health,New York,7,2158.92,15112.44
+2501077261,6/13/2025,Blackberry Jam,Food - Condiments,Texas,29,1160.53,33655.37
+1220108480,11/18/2025,Artisan Flatbreads,Food - Bakery,Alabama,33,4265.12,140748.96
+7311250048,2/2/2025,Carrot Ginger Soup,Food - Soups,Pennsylvania,48,3247.01,155856.48
+1527098974,7/11/2025,Garlic and Herb Rub,Food - Spices,Florida,36,2606.54,93835.44
+0578140551,3/20/2025,Air Fryer,Kitchen,Florida,38,4103.73,155941.74
+0589506994,1/8/2025,Electric Wax Warmer,Home,Kansas,41,1500.7,61528.7
+7647024094,11/1/2025,Bodyweight Resistance Bands,Fitness,New York,24,818.35,19640.4
+8268848650,12/14/2025,Portable Grill Cover,Outdoor,Kentucky,10,4397,43970
+7054174003,1/24/2025,LED Christmas Lights,Home,North Carolina,9,3457.35,31116.15
+2850607037,3/1/2025,Solar Garden Lights,Outdoor,Idaho,23,472.91,10876.93
+0708328687,7/15/2025,Kale and Quinoa Salad,Food - Salads,Missouri,33,153.42,5062.86
+7601464709,3/15/2025,Fresh Cilantro,Food - Produce,Florida,46,1514.49,69666.54
+9647582013,1/14/2025,Oven Thermometer,Kitchen,Florida,39,642.72,25066.08
+2447331045,2/6/2025,Crew Neck Sweater,Clothing - Sweaters,Pennsylvania,35,1700.86,59530.1
+2165971713,2/15/2025,Honey Sesame Cashews,Food - Snacks,New York,9,1184.45,10660.05
+8103096679,5/26/2025,Compact Electric Kettle,Kitchen,New York,3,3244.97,9734.91
+4204281117,1/15/2025,Thai Coconut Curry Sauce,Food - Condiments,Utah,4,640.37,2561.48
+3361833647,10/16/2025,Microfiber Cleaning Cloth Set,Home,West Virginia,24,3184.53,76428.72
+6753209441,6/17/2025,Electric Hot Water Dispenser,Kitchen,Illinois,43,3754.65,161449.95
+7893221836,7/2/2025,Sweet BBQ Dipping Sauce,Food - Condiments,New Jersey,42,4301.24,180652.08
+7276937739,1/24/2025,Adjustable Pedicure Footrest,Beauty,Pennsylvania,6,4206.91,25241.46
+6115207169,1/6/2025,Cinnamon Sugar Tortilla Chips,Food - Snacks,Oklahoma,1,1603.52,1603.52
+6835174706,3/22/2025,Decorative Wall Tapestry,Home,California,31,3672.07,113834.17
+6798258522,1/16/2025,Digital Voice Recorder,Electronics,Georgia,47,2820.08,132543.76
+8939040856,3/21/2025,Electric Ice Cream Maker,Kitchen,Arkansas,33,3426.04,113059.32
+3428076605,7/14/2025,Artisan Pickles,Food - Condiments,Georgia,12,1794.27,21531.24
+2767302305,9/2/2025,Smartphone Tripod,Photography,Washington,43,1136.6,48873.8
+5649899827,9/3/2025,Kids' Activity Book,Books,Washington,43,1794.95,77182.85
+8323123640,5/17/2025,Organic Baby Spinach,Food - Produce,Washington,7,4638.64,32470.48
+3236717025,6/1/2025,Decorative Throw Pillows,Home,Florida,25,1511.56,37789
+0764664301,6/17/2025,Pasta Maker,Kitchen,District of Columbia,9,3315.02,29835.18
+3636777181,7/24/2025,Sweet Potato Mash,Food - Frozen Foods,Nebraska,45,1648.18,74168.1
+2486531424,6/19/2025,Protein Bar Variety Pack,Food - Snacks,Alabama,35,4408.9,154311.5
+9084414292,12/19/2025,Salt and Pepper Grinder Set,Kitchen,California,21,3844.02,80724.42
+0276117298,9/18/2025,Plant-Based Meal Prep Containers,Kitchen,Washington,39,3608.59,140735.01
+5693049159,1/23/2025,Dark Chocolate Bars,Food - Snacks,Pennsylvania,29,4679.34,135700.86
+9667686396,8/21/2025,Greek Yogurt Parfait,Food - Dairy,Tennessee,31,353.99,10973.69
+7265824539,2/18/2025,Tailgating Set,Outdoor,Louisiana,28,4920.62,137777.36
+4174249237,5/28/2025,Tailgating Set,Outdoor,South Carolina,25,3845.3,96132.5
+6917902578,12/11/2025,Walnut Halves,Food - Nuts,Texas,17,1111.43,18894.31
+5020658820,3/28/2025,Honey Lemon Tea,Food - Beverages,Virginia,12,2390.51,28686.12
+8476843232,10/29/2025,Heart-Shaped Baking Molds,Kitchen,Virginia,34,2437.71,82882.14
+2212432518,6/4/2025,Foot Massager Machine,Health,Texas,1,3140.02,3140.02
+1934252727,2/14/2025,Crispy Chickpeas,Food - Snacks,New Mexico,8,2397.48,19179.84
+8722327592,2/24/2025,Garlic Butter Shrimp,Food - Seafood,Kansas,38,76.7,2914.6
+7218580912,2/4/2025,Repair Tool Set for Home Improvement,Tools,Iowa,2,2192.36,4384.72
+5206297666,10/29/2025,Pet Safety Harness,Pets,California,10,3370.33,33703.3
+6871767983,9/13/2025,Spicy Tuna Rolls,Food - Seafood,New York,6,849.1,5094.6
+8344789532,2/28/2025,Tahini,Food - Condiments,Pennsylvania,11,2483.06,27313.66
+3810753149,7/20/2025,Stick Vacuums Cleaner,Home Appliances,Minnesota,17,4560.69,77531.73
+1403718172,2/27/2025,Herbed Goat Cheese,Food - Cheese,California,31,2548.75,79011.25
+7610725323,1/2/2025,Honey Nut Cheerios,Food - Cereal,New York,16,324.01,5184.16
+0208930922,5/11/2025,Bock Beer Mustard,Food - Condiments,Michigan,17,3386.19,57565.23
+4452039588,6/11/2025,Organic Green Tea,Food - Beverages,New York,3,3199.32,9597.96
+5789857337,9/23/2025,Cable Knit Beanie,Clothing - Accessories,Texas,28,4166.37,116658.36
+7258547754,1/9/2025,Smartphone Holder for Car,Automotive,California,2,762.41,1524.82
+3103718179,12/25/2025,Fitness Smartwatch,Wearable Tech,Texas,19,3217.58,61134.02
+4498033159,4/10/2025,Chicken Breasts,Food - Meat,Illinois,34,3067.74,104303.16
+5984318911,1/28/2025,Basil Pesto Pasta,Food - Prepared Meals,Oklahoma,24,3483.02,83592.48
+8720981902,3/21/2025,Children's Musical Instrument Set,Toys,Texas,31,3541.43,109784.33
+8274213807,7/17/2025,Pumpkin Spice Pancake Mix,Food - Breakfast,Washington,13,91.64,1191.32
+0443743169,2/3/2025,Banana Nut Oatmeal Cups,Food - Breakfast,Arkansas,25,196.85,4921.25
+1208482580,1/24/2025,Essential Oil Diffuser,Health,New York,35,1576.9,55191.5
+3150016223,5/8/2025,Coconut Cream,Food - Baking & Cooking,Maryland,22,4163.48,91596.56
+1670732460,5/4/2025,Reflective Safety Vest,Safety,Nebraska,20,2954.49,59089.8
+2498417753,2/7/2025,Sweet Pea Hummus,Food - Dips,Florida,11,2371.53,26086.83
+1650631790,3/9/2025,Throw Pillow Covers,Home,California,1,3136.75,3136.75
+9491803980,4/18/2025,Chia Seed Pudding Mix,Food - Breakfast,Georgia,1,459.8,459.8
+9829652378,1/3/2025,Marinara Parmesan Baked Ziti,Food - Frozen Meals,Virginia,4,1401.9,5607.6
+1792056311,8/23/2025,Indian Curry Sauce,Food - Condiments,Delaware,19,4198.03,79762.57
+5185625376,3/6/2025,Chipotle Seasoning Blend,Food - Spices,Ohio,7,303.53,2124.71
+2710053969,9/20/2025,Terry Cloth Robe,Clothing - Loungewear,Texas,16,618.47,9895.52
+1666827843,7/29/2025,Black Bean Salsa,Food - Snacks,California,30,2589.12,77673.6
+2842778561,10/13/2025,Camping Chair,Outdoor,Oregon,25,1055.54,26388.5
+3212465646,7/1/2025,Suede Ankle Booties,Clothing - Footwear,Iowa,38,604.95,22988.1
+4621844776,10/10/2025,Portable Solar Path Lights,Outdoor,Florida,6,4667.89,28007.34
+4138195556,9/24/2025,Maple Almond Butter,Food - Nut Butters,Texas,25,1707.76,42694
+0237033771,4/24/2025,Travel Mug,Kitchen,Arizona,29,1635.4,47426.6
+9566156715,8/15/2025,Smart Doorbell,Smart Home,Wisconsin,27,4846.65,130859.55
+8717028906,9/19/2025,Buffalo Chicken Dip,Food - Dips,Washington,43,1118.55,48097.65
+2369740248,5/12/2025,Air Purifier,Home,Florida,24,3258.17,78196.08
+3627355458,12/22/2025,Mushroom Soup (canned),Food - Canned Goods,Utah,3,1649.62,4948.86
+5017518495,2/15/2025,Plaid Flannel Shirt,Clothing - Tops,Texas,29,473.76,13739.04
+7697630583,7/3/2025,Lemon Herb Quinoa,Food - Grains,Texas,31,2778.12,86121.72
+7002461117,11/30/2025,Smartphone Car Mount with Wireless Charging,Automotive,Louisiana,44,82.18,3615.92
+6372897156,5/28/2025,Training Soccer Ball,Sports,Arizona,29,2919.77,84673.33
+8683411982,10/7/2025,Mushroom Soup (canned),Food - Canned Goods,Louisiana,16,3819.88,61118.08
+2203130040,8/31/2025,Chunky Knit Sweater,Clothing - Tops,Texas,21,2894.11,60776.31
+6499863009,1/23/2025,Kids' Crafting Station,Toys,Ohio,35,280.28,9809.8
+1570817618,12/15/2025,Hiking Boots,Footwear,Florida,42,567.07,23816.94
+5036251113,7/28/2025,Adjustable Laptop Desk,Office,Nevada,8,4872.32,38978.56
+7994693784,7/14/2025,Roasted Sweet Corn,Food - Frozen,Louisiana,49,1449.67,71033.83
+1890647489,7/18/2025,Vegan Mayonnaise,Food - Condiments,Idaho,32,3453.63,110516.16
+2290771643,5/15/2025,Zesty Garlic Marinade,Food - Condiments,Florida,30,2416.37,72491.1
+1139381830,11/21/2025,Heavy-Duty Utility Tote,Accessories,California,31,4869.3,150948.3
+7181829556,3/21/2025,Acoustic Guitar,Music,Ohio,27,1403.64,37898.28
+7078908279,8/7/2025,Whipped Cream Cheese,Food - Dairy,California,48,66.83,3207.84
+9825956518,11/5/2025,Camping Chair,Outdoor,South Carolina,46,821.62,37794.52
+0447276042,9/18/2025,Kid's Fruit Snacks,Food - Snacks,Colorado,29,2424.35,70306.15
+9688125490,6/15/2025,Avocados,Food - Produce,California,1,904.53,904.53
+7600939096,10/2/2025,Marinara Parmesan Baked Ziti,Food - Frozen Meals,Illinois,47,160.78,7556.66
+1459604067,10/10/2025,Collapsible Water Bottle,Fitness,Massachusetts,8,3027.19,24217.52
+6782491141,6/8/2025,Car Trash Can,Automotive,Colorado,11,3518.83,38707.13
+2295596610,10/23/2025,Tuscan Bean Soup,Food - Canned Goods,Arkansas,19,1137.52,21612.88
+1474475663,2/14/2025,Fitness Jump Rope with LCD Counter,Fitness,Arizona,23,1915.86,44064.78
+6315000223,6/6/2025,Portable SSD,Storage,Missouri,9,425.28,3827.52
+6650858951,3/17/2025,Travel Organizer,Travel,Kansas,25,4220.7,105517.5
+3302426836,4/15/2025,Oven-Baked Potato Chips,Food - Snacks,Pennsylvania,5,1358.41,6792.05
+0679160558,9/1/2025,Artisan Pickles,Food - Condiments,New York,2,31.43,62.86
+0630471959,5/25/2025,Pet Safety Harness,Pets,District of Columbia,5,1979.84,9899.2
+1009702491,10/18/2025,Cranberry Almond Cookies,Food - Bakery,New York,26,3561.09,92588.34
+3915025011,1/12/2025,Bluetooth Sleep Headphones,Audio,District of Columbia,26,1247.17,32426.42
+0405143885,9/14/2025,Herb-Infused Olive Oil,Food - Oils,Oklahoma,37,3292.54,121823.98
+6271840019,12/4/2025,Toy Building Set,Toys,Louisiana,13,2329.32,30281.16
+6860306718,2/28/2025,Children's Backpack,Accessories,California,7,4676.13,32732.91
+5209452166,3/26/2025,Self-Adhesive Wallpaper,Home,Hawaii,29,3792.14,109972.06
+0005550289,6/19/2025,Reflective Safety Vest,Safety,New Mexico,13,4997.49,64967.37
+6818447910,1/9/2025,Adjustable Dog Harness,Pets,Florida,12,1794.4,21532.8
+1337399280,1/22/2025,Frozen Vegetarian Pizza,Food - Frozen Meals,California,6,4301.65,25809.9
+7776341053,11/4/2025,Ultra-Thin Laptop Sleeve,Accessories,Georgia,31,4069.78,126163.18
+1306606640,9/3/2025,Luminous Night Light,Home,Indiana,21,2667.3,56013.3
+8789146336,1/24/2025,Portable Solar Generator,Outdoor,Texas,37,3067.91,113512.67
+5246187217,9/15/2025,Tea Infuser,Kitchen,Arizona,40,446.08,17843.2
+6188566215,4/19/2025,Knitted Infinity Scarf,Clothing - Accessories,Iowa,24,424.04,10176.96
+0351264566,2/27/2025,Sweet and Spicy Barbecue Sauce,Food - Condiments,Texas,23,1730.01,39790.23
+1731881649,2/25/2025,Zucchini Noodle Pasta,Food - Vegetables,Texas,36,3926.86,141366.96
+1927161290,3/19/2025,Classic Pesto Sauce,Food - Sauces,Georgia,44,4378.22,192641.68
+1412035732,1/13/2025,Smart Thermostat,Smart Home,North Carolina,45,3974.59,178856.55
+7272336315,6/13/2025,Spicy Thai Noodles,Food - Frozen Meals,Minnesota,50,199.75,9987.5
+1981697624,4/7/2025,Portable Charger with Solar Panel,Electronics,Arizona,11,684.12,7525.32
+8129767929,6/7/2025,Tandoori Chicken Skewers,Food - Meat,Nevada,42,2693.24,113116.08
+2820903428,9/20/2025,Honey Roasted Chickpeas,Food - Snacks,South Dakota,40,4884.8,195392
+7131305774,10/14/2025,Folding Pocket Knife,Tools,Oklahoma,32,3758.19,120262.08
+9430652494,12/30/2025,Chicken Salad Kit,Food - Prepared Foods,Colorado,43,3080.1,132444.3
+1399548018,11/28/2025,Ice Cube Tray with Lid,Kitchen,Pennsylvania,33,1398.4,46147.2
+6761860857,4/4/2025,Beef Enchilada Casserole,Food - Prepared Meals,California,6,3036.13,18216.78
+9670080266,8/25/2025,Frozen Burritos,Food - Frozen Foods,Iowa,41,4396.54,180258.14
+6574972523,7/16/2025,Veggie Chips Variety Pack,Food - Snacks,Michigan,13,3878.61,50421.93
+9142969913,2/16/2025,Fleece Throw Blanket,Home,Florida,40,2863.97,114558.8
+1901548600,11/19/2025,Caramelized Onion Dip,Food - Dairy,Ohio,45,4397.53,197888.85
+1983084506,7/7/2025,Balsamic Vinaigrette,Food - Dressings,New York,47,993.04,46672.88
+2386544850,4/21/2025,Travel Eye Mask with Ear Plugs,Travel,Minnesota,27,1255.78,33906.06
+8955499884,9/26/2025,Dog Collar,Pets,Nevada,36,1105.34,39792.24
+3215797488,7/1/2025,Cauliflower Gnocchi,Food - Frozen Foods,Tennessee,39,4680.69,182546.91
+6590434522,3/29/2025,Decorative Throw Pillows,Home,Oklahoma,44,4240.18,186567.92
+5741441718,10/6/2025,Pumpkin Waffles,Food - Breakfast,Nebraska,12,1685.01,20220.12
+8766126932,4/29/2025,Electrolyte Water Bottle,Fitness,North Dakota,23,2984.59,68645.57
+4116440108,2/9/2025,Egg Noodles,Food - Grains,Arizona,24,1809.54,43428.96
+8522571333,8/7/2025,Bamboo Memory Foam Pillow,Home,Florida,38,4858.95,184640.1
+7468021546,9/14/2025,BBQ Sauce,Food - Condiments,California,26,1051.97,27351.22
+3535967562,6/22/2025,Collapsible Camping Cup,Outdoor,Tennessee,22,4319.74,95034.28
+1357939108,12/28/2025,LED Desk Lamp with USB Charging,Office,Florida,50,1094.03,54701.5
+9342706940,5/10/2025,Silicone Stretch Lids,Kitchen,California,36,3884.48,139841.28
+3805794738,4/11/2025,Vegetable Pizza Rolls,Food - Frozen Foods,California,41,4616.21,189264.61
+2457672600,4/5/2025,Smartphone Tripod with Remote,Photography,Oregon,4,788.9,3155.6
+8898838301,1/13/2025,High-Speed Blender,Kitchen,Texas,3,320.9,962.7
+6341670354,11/13/2025,White Rice,Food - Grains,Michigan,30,3072.87,92186.1
+8582719493,3/11/2025,Wireless Smart Plug,Smart Home,Tennessee,45,595.14,26781.3
+4671324741,6/26/2025,Frozen Edamame,Food - Frozen Foods,Oklahoma,43,2505.32,107728.76
+8762765744,10/2/2025,Electric Heat Press Machine,Crafts,Virginia,20,1692.02,33840.4
+9539615003,11/1/2025,Fresh Cilantro,Food - Produce,Colorado,10,3767.06,37670.6
+7559455433,10/17/2025,Peach Slices (canned),Food - Canned Goods,Alabama,3,3892.35,11677.05
+6977136790,4/25/2025,Peach Slices (canned),Food - Canned Goods,Louisiana,46,1411.92,64948.32
+0920100600,1/11/2025,Children's Science Experiment Lab Kit,Toys,Florida,37,2905.55,107505.35
+1827457066,3/28/2025,Tabletop Fire Pit,Outdoor,Colorado,46,3170.2,145829.2
+7600088495,10/24/2025,Whole Wheat Pasta,Food - Grains,New York,32,3282.48,105039.36
+9843560574,8/28/2025,Peach Yogurt,Food - Dairy,California,5,2278.23,11391.15
+7248293938,10/21/2025,Outdoor Adventure Backpack,Outdoor,Louisiana,38,4787.55,181926.9
+9652055166,2/12/2025,Organic Granola,Food - Breakfast,New Mexico,21,207.62,4360.02
+5580161174,1/10/2025,Classic Black Trousers,Clothing - Pants,New Mexico,49,1622.5,79502.5
+6742542705,12/7/2025,Picnic Blanket,Outdoor,Minnesota,36,1881.48,67733.28
+6008320581,2/15/2025,Falafel Mix,Food - Baking & Cooking,Connecticut,20,2290.59,45811.8
+8792696627,9/28/2025,Almond Crunch Granola Bars,Food - Snacks,Missouri,28,4842.39,135586.92
+5702747836,10/28/2025,Cheddar & Bacon Potato Skins,Food - Frozen,California,26,4465.48,116102.48
+7804220405,8/15/2025,Photo Album,Home,New York,46,577.57,26568.22
+5476963758,5/20/2025,Gardening Tool Belt,Garden,New York,35,296.51,10377.85
+7509635160,7/12/2025,Kale & Quinoa Salad Mix,Food - Salads,South Carolina,26,4243.3,110325.8
+7146380351,1/27/2025,Dog Training Whistle,Pets,California,22,825.76,18166.72
+0381514102,11/8/2025,Smart Air Purifier,Home,Texas,8,1246.14,9969.12
+2015180079,4/14/2025,Artisan Bread Loaf,Food - Bakery,Connecticut,34,4870.22,165587.48
+1435668774,8/14/2025,Cinnamon Spiced Almonds,Food - Snacks,Arizona,28,3140.01,87920.28
+0742264939,9/19/2025,Pasta Salad Kit,Food - Prepared Foods,Alabama,23,2600.91,59820.93
+6167102457,10/20/2025,Cream Cheese,Food - Dairy,Texas,21,323.39,6791.19
+1570922721,8/16/2025,Watercolor Brush Pens,Art Supplies,California,45,3911.43,176014.35
+6459155704,5/29/2025,Basil Lemonade,Food - Beverages,Minnesota,23,1828.66,42059.18
+2902957173,8/24/2025,Herbed Chicken Breast,Food - Meat,Iowa,44,286.83,12620.52
+3798406278,5/31/2025,Digital Photo Frame,Home,New York,20,4584.16,91683.2
+5886211942,4/3/2025,Wall-Mounted Organizer,Home,New York,37,1346.37,49815.69
+8921729682,4/16/2025,Lemon Pepper Seasoning,Food - Seasonings,California,12,3387.83,40653.96
+0965573133,1/4/2025,Bluetooth Tracker,Accessories,Florida,17,60.06,1021.02
+9985038304,1/23/2025,Maple Syrup,Food - Condiments,Connecticut,46,1814.04,83445.84
+7701456902,9/18/2025,Pressure Cooker,Kitchen,Arkansas,31,287.03,8897.93
+8655413356,8/4/2025,Smoked Paprika,Food - Spices,Washington,35,1649.61,57736.35
+0013139061,4/10/2025,Spicy Vegetable Sushi Rolls,Food - Prepared Foods,Oklahoma,48,4489.21,215482.08
+4072010197,4/30/2025,Lemon Dill Salmon,Food - Seafood,Florida,44,2217.63,97575.72
+4975774224,6/8/2025,Pet Hair Vacuum Cleaner Attachment,Pets,Connecticut,41,3133.86,128488.26
+4204437923,8/12/2025,Classic Leather Wallet,Clothing - Accessories,Virginia,17,2672.83,45438.11
+7776581569,3/12/2025,Beef Sirloin Steak,Food - Meat,Minnesota,39,1561.53,60899.67
+9907523364,11/20/2025,Magnetic Screen Door,Outdoor,Florida,38,2983.49,113372.62
+6532934933,5/7/2025,Bamboo Cotton Tank Top,Clothing - Tops,Michigan,41,3483.39,142818.99
+6928807415,8/25/2025,Savory Trail Mix,Food - Snacks,Arizona,34,3027.17,102923.78
+9456085929,6/9/2025,Pineapple Teriyaki Chicken Mix,Food - Meat,District of Columbia,22,1409.37,31006.14
+9899359459,1/23/2025,Zesty Garlic Hummus,Food - Snacks,Georgia,31,1857.81,57592.11
+9741194005,11/19/2025,Pressure Cooker,Kitchen,Louisiana,38,2322.14,88241.32
+8659203410,6/19/2025,Over-the-Door Shoe Organizer,Home,Illinois,32,2268.74,72599.68
+0582431247,6/9/2025,Sports Windbreaker,Clothing - Outerwear,Illinois,29,2312.24,67054.96
+3532463482,11/30/2025,Sliced Cheese,Food - Dairy,Texas,21,416.5,8746.5
+8184552297,4/3/2025,Smartphone UV Sanitizer,Health,Florida,14,1163.81,16293.34
+3842096119,2/1/2025,Desk Organizer Set,Office,California,41,4206.2,172454.2
+4997997641,10/11/2025,Sliced Bell Peppers,Food - Fresh Produce,Washington,47,232.59,10931.73
+1145957005,8/31/2025,Kids' Dinosaur-Themed Lunchbox,Accessories,Michigan,42,2621.23,110091.66
+2984396685,12/23/2025,Pet Bed,Pets,Arizona,20,3873.65,77473
+9079886130,1/31/2025,Vanilla Ice Cream,Food - Frozen Foods,Utah,28,4235.03,118580.84
+3578844047,12/16/2025,Pumpkin Ice Cream,Food - Frozen Foods,Montana,37,1208.93,44730.41
+8999400069,8/7/2025,Coconut Milk,Food - Canned Goods,Arkansas,15,1420,21300
+6948695418,5/24/2025,Organic Green Apples,Food - Produce,New York,29,3532.75,102449.75
+9964114672,10/30/2025,Classic Black Dress,Clothing - Dresses,Texas,48,4014.86,192713.28
+1077104626,2/21/2025,Handmade Leather Journal,Books,Kansas,1,2626.22,2626.22
+5623491278,10/15/2025,Pumpkin Waffles,Food - Breakfast,Alabama,15,3519.85,52797.75
+6973100260,3/8/2025,Sunflower Seeds,Food - Nuts,District of Columbia,28,3368.12,94307.36
+0024054224,8/27/2025,Peanut Butter Chocolate Chip Bars,Food - Snacks,Oklahoma,23,542.93,12487.39
+9934429829,10/8/2025,Arcade Game Machine,Gaming,New York,38,2337.8,88836.4
+6567895268,8/14/2025,Smart Fitness Scale,Fitness,Kansas,16,2484.99,39759.84
+1258928973,10/15/2025,Eco-Friendly Yoga Mat,Fitness,California,47,1835.8,86282.6
+8339048074,6/21/2025,Canned Coconut Milk,Food - Canned Goods,Michigan,42,4705.7,197639.4
+4919453906,12/18/2025,Herb-Infused Olive Oil,Food - Oils,Kentucky,19,3508.36,66658.84
+1048157296,5/5/2025,Portable Speakers,Audio,California,15,3855.34,57830.1
+3377206264,10/8/2025,Sliced Turkey Breast,Food - Deli Meats,Texas,18,3335.88,60045.84
+2491295172,8/10/2025,Portable Dog Water Bottle,Pets,Mississippi,3,718.65,2155.95
+9527432073,10/20/2025,Kale Salad Kit,Food - Salads,California,37,1372.59,50785.83
+6647309926,8/14/2025,Spiced Pumpkin Soup,Food - Canned Soups,Georgia,30,53.44,1603.2
+0449972402,11/21/2025,Bodyweight Resistance Bands,Fitness,Texas,11,3370.88,37079.68
+7279907997,7/23/2025,Smartphone Hand Grip,Accessories,Virginia,35,4662.43,163185.05
+2185190431,11/17/2025,Caramel Apple Chips,Food - Snacks,Ohio,24,1599.18,38380.32
+3815808243,12/7/2025,Almond Crunch Granola Bars,Food - Snacks,Missouri,27,2875.28,77632.56
+4544151651,1/28/2025,Educational STEM Kit,Toys,Texas,19,3706.09,70415.71
+2870301529,1/18/2025,Adjustable Dumbbells,Fitness,Virginia,28,151.3,4236.4
+2310897477,5/6/2025,Vanilla Ice Cream,Food - Frozen Foods,California,48,3675.12,176405.76
+5429627909,8/21/2025,Trackpad for Laptop,Accessories,Georgia,17,537.23,9132.91
+2269169271,11/23/2025,Ginger Tea,Food - Beverages,Texas,14,2128.37,29797.18
+7477368375,1/26/2025,Sliced Cheese,Food - Dairy,California,26,182.25,4738.5
+0277438683,10/24/2025,Organic Blueberries,Food - Fruits,North Carolina,22,3728.97,82037.34
+0921115458,2/6/2025,Peanut Butter Banana Smoothie,Food - Beverages,Florida,28,2092.59,58592.52
+8692683698,11/2/2025,Sweet Chili Sauce,Food - Condiments,Indiana,36,4899.15,176369.4
+8423094782,12/2/2025,Himalayan Salt Grinder,Food - Spices,Idaho,27,4385.22,118400.94
+2315978858,11/4/2025,Elderberry Syrup,Food - Supplements,Idaho,2,75.71,151.42
+2844324797,1/3/2025,Wildflower Honey,Food - Condiments,New York,26,3438.31,89396.06
+9553291961,9/15/2025,Infrared Thermometer,Health,California,39,1176.19,45871.41
+3947488734,5/15/2025,Stuffed Bell Peppers,Food - Frozen Meals,New York,32,1664.11,53251.52
+3353520996,11/17/2025,Golf Putting Green,Sports,Louisiana,23,514.29,11828.67
+4858696863,8/13/2025,Coconut Water,Food - Beverages,Missouri,49,1683.92,82512.08
+5808388023,5/25/2025,Ice Cream,Food - Frozen Foods,Nevada,48,3294.12,158117.76
+1871566851,10/28/2025,LED Desk Light,Home,Louisiana,47,523.25,24592.75
+6470878547,5/30/2025,Pork Chops,Food - Meat,Ohio,44,4507.33,198322.52
+2945703025,11/19/2025,Quinoa,Food - Grains,Georgia,28,2859.04,80053.12
+6536757076,2/21/2025,Lentils,Food - Grains,Texas,5,2392.96,11964.8
+6437862580,3/17/2025,Sketchbook,Art Supplies,Florida,33,2874.29,94851.57
+1861504543,5/22/2025,Chewy Granola Bars,Food - Snacks,Texas,29,2791.74,80960.46
+8707551347,10/11/2025,Zesty Garlic Hummus,Food - Snacks,Arizona,19,3557.56,67593.64
+6894527709,5/22/2025,Chopping Board,Kitchen,North Carolina,15,2737.62,41064.3
+9177485645,8/31/2025,Slingback Sandals,Clothing - Footwear,Georgia,10,3237.91,32379.1
+8800355196,2/16/2025,Vegan Alfredo Sauce,Food - Sauces,New Jersey,1,3947,3947
+6514699723,1/16/2025,Tortilla Chips,Food - Snacks,Connecticut,38,468.98,17821.24
+2857020147,11/17/2025,Microfiber Cleaning Cloths,Home,Missouri,27,2410.12,65073.24
+2729562621,8/18/2025,Frozen Cauliflower Rice,Food - Frozen Foods,New York,36,713.77,25695.72
+9123489987,6/23/2025,High-Speed Blender,Kitchen,Oklahoma,26,728.45,18939.7
+9098667627,7/2/2025,Mini Meatballs,Food - Frozen Meals,Minnesota,46,4299.52,197777.92
+5265833870,9/17/2025,Athletic Sports Bra,Clothing - Activewear,District of Columbia,19,2507.08,47634.52
+2305786492,3/28/2025,Organic Tomato Soup,Food - Canned Goods,Texas,37,108.6,4018.2
+8254575738,10/15/2025,Balsamic Fig Dressing,Food - Condiments,Washington,24,541.23,12989.52
+1666319147,12/27/2025,High-Speed HDMI Cable,Electronics,Pennsylvania,33,2912.43,96110.19
+7645255897,7/20/2025,Caribbean Jerk Marinade,Food - Marinades,Florida,7,687.64,4813.48
+0403000548,1/14/2025,Pumpkin Pancake Mix,Food - Breakfast,Texas,41,3417.72,140126.52
+1003591620,9/7/2025,Oven-Baked Potato Chips,Food - Snacks,Oklahoma,30,607.01,18210.3
+9056712349,11/30/2025,Honey Garlic Chicken,Food - Meat,Arkansas,38,4540.98,172557.24
+3444051794,11/15/2025,Sweet and Spicy Barbecue Sauce,Food - Condiments,California,15,3500.55,52508.25
+9134686584,5/30/2025,Garlic Parmesan Wings,Food - Frozen Foods,Washington,29,1694.53,49141.37
+5998764374,12/5/2025,Children's Educational Puzzle,Toys,New York,27,1444.55,39002.85
+4872524403,6/15/2025,Frozen Mixed Berries,Food - Frozen Foods,Colorado,35,504.09,17643.15
+6370796298,11/22/2025,Home Karaoke System,Audio,Georgia,15,2441.11,36616.65
+6242111233,9/9/2025,Banana Peanut Butter Smoothie,Food - Frozen Foods,Kansas,10,2322.41,23224.1
+0789054892,11/21/2025,Chili Beans (canned),Food - Canned Goods,New York,11,4587.79,50465.69
+2610898061,6/2/2025,Gluten-Free Bread,Food - Bakery,New Mexico,5,172.53,862.65
+5035698637,4/26/2025,Foam Muscle Roller,Fitness,Nebraska,16,206.63,3306.08
+8600770998,10/9/2025,Sweet BBQ Dipping Sauce,Food - Condiments,North Dakota,49,3287.86,161105.14
+1259942082,3/20/2025,Cinnamon Sugar Popcorn,Food - Snacks,California,37,1356.94,50206.78
+5505221416,5/3/2025,Lemon Garlic Shrimp,Food - Seafood,Washington,18,1247.67,22458.06
+7366658405,8/7/2025,Cold Brew Coffee Concentrate,Food - Beverages,Utah,45,3590.32,161564.4
+0999031872,12/5/2025,Interactive Plush Toy,Toys,Ohio,48,458.94,22029.12
+2097845576,2/12/2025,Dried Cranberries,Food - Snacks,California,38,3062.75,116384.5
+4314194448,10/9/2025,Pet Caress Brush,Pets,Colorado,33,1280.89,42269.37
+4094688196,12/18/2025,Fruit and Nut Bars,Food - Snacks,California,13,895.72,11644.36
+1308855818,5/8/2025,Camera Tripod,Photography,California,32,3748.88,119964.16
+6003560673,6/28/2025,Fruit Infuser Water Bottle,Fitness,Ohio,36,1569.91,56516.76
+6913434898,8/21/2025,Pet Grooming Glove,Pets,Texas,16,3791.8,60668.8
+2048199356,3/21/2025,Organic Baby Spinach,Food - Produce,Georgia,27,434.05,11719.35
+1970915102,1/11/2025,Portable Solar Charger,Electronics,Illinois,44,4900.61,215626.84
+9221629201,7/6/2025,Memory Foam Mattress Topper,Home,Oregon,15,1419.08,21286.2
+1289109656,11/24/2025,Garlic Butter Sauce,Food - Condiments,Texas,42,4428.71,186005.82
+0016407636,7/12/2025,Smartphone Camera Lens Kit,Photography,Minnesota,27,3829.39,103393.53
+4159468411,3/10/2025,Chia Seed Pudding,Food - Snacks,Kentucky,36,4845.62,174442.32
+9121721742,12/23/2025,Silicone Baking Molds,Kitchen,Michigan,38,213.75,8122.5
+2636481516,1/18/2025,Foam Roller for Muscle Recovery,Fitness,Kentucky,50,1416.56,70828
+2183969954,8/2/2025,Spinach Artichoke Dip,Food - Snacks,California,21,1166.3,24492.3
+1668408449,6/15/2025,Hand Crank Blender,Kitchen,Texas,9,4014.88,36133.92
+3821437316,11/14/2025,Garlic Parmesan Roasted Potatoes,Food - Sides,Missouri,4,3708.32,14833.28
+9370233229,11/21/2025,Spicy Snack Mix,Food - Snacks,Texas,41,4770.3,195582.3
+5894832128,2/3/2025,Self-Inflating Camping Mattress,Outdoor,Connecticut,5,3092.28,15461.4
+2370536950,8/16/2025,Savory Pumpkin Soup,Food - Soups,Indiana,25,145.56,3639
+9106393519,11/12/2025,Classic BBQ Sauce,Food - Condiments,Illinois,39,765,29835
+5736298155,3/7/2025,Noise Cancelling Ear Muffs,Safety,Texas,46,3910.8,179896.8
+4804928863,3/17/2025,Classic Cheesecake Mix,Food - Desserts,California,12,1353.48,16241.76
+4417954488,4/14/2025,Pumpkin Waffles,Food - Breakfast,West Virginia,36,2200.92,79233.12
+4620718289,9/9/2025,Sporty Leggings,Clothing - Activewear,California,20,1554.51,31090.2
+7751738618,6/15/2025,Lentil Pasta,Food - Pasta,Minnesota,38,3951.72,150165.36
+9924480511,8/22/2025,Mini Pretzels,Food - Snacks,Pennsylvania,29,33.88,982.52
+7655932247,2/8/2025,Smartphone Holder for Car,Automotive,California,5,332.89,1664.45
+6266432048,1/8/2025,Organic Green Apples,Food - Produce,Ohio,38,788.84,29975.92
+9119675259,11/6/2025,Fresh Basil Pesto,Food - Sauces,New Mexico,50,3606.07,180303.5
+7261263168,7/20/2025,Zesty Cilantro Lime Dressing,Food - Condiments,California,38,1427.15,54231.7
+6755377066,9/14/2025,Crispy Tofu Bites,Food - Protein,Ohio,44,4976.96,218986.24
+4069599940,5/3/2025,Pet Nail Clipper,Pets,Oklahoma,39,509.78,19881.42
+6072714692,11/26/2025,Sriracha Honey Glaze,Food - Sauces,Ohio,31,168.2,5214.2
+7884185202,4/23/2025,Pork Chops,Food - Meat,Florida,20,1839.35,36787
+2879618789,4/4/2025,Eco-Friendly Stainless Steel Straws,Kitchen,Alabama,19,4306.15,81816.85
+2106174136,6/18/2025,Quinoa,Food - Grains,Texas,28,3906.97,109395.16
+5512375776,10/6/2025,Honey Sesame Chicken Mix,Food - Frozen Meals,Texas,2,4627.74,9255.48
+9949689937,7/31/2025,Egg Noodles,Food - Grains,New York,36,3754.26,135153.36
+6849162357,10/28/2025,Fridge Magnet Set,Home,Virginia,48,4325.37,207617.76
+6758731324,7/7/2025,Elegant Maxi Skirt,Clothing - Bottoms,Texas,33,3125.59,103144.47
+0881630799,3/17/2025,Honey mustard chicken tenders,Food - Meat,Louisiana,1,3980.79,3980.79
+8206210083,10/18/2025,Portable Solar Charger,Electronics,Florida,10,893.24,8932.4
+8668058029,1/27/2025,Puzzle Game Set,Toys,Utah,37,1204.85,44579.45
+6134873284,5/23/2025,Pasta (Fusilli),Food - Pasta,Utah,11,2747.73,30225.03
+5804305840,3/13/2025,Smartphone Holder for Car,Automotive,Texas,17,4317.29,73393.93
+1450999336,5/27/2025,Classic Slim Fit Shirt,Clothing - Shirts,Florida,36,3633.14,130793.04
+9102618664,7/7/2025,Water Bottle,Fitness,Pennsylvania,35,1499.19,52471.65
+1149786027,10/17/2025,Adjustable Pet Feeder,Pets,Arizona,28,3745.91,104885.48
+4646420163,8/22/2025,Lemon Garlic Marinade,Food - Condiments,Missouri,22,335.45,7379.9
+1278343628,5/1/2025,Insulated Wine Tote,Accessories,Alabama,15,4053.89,60808.35
+4069400214,7/12/2025,Garlic and Herb Cream Cheese,Food - Dairy,Arizona,43,924.25,39742.75
+6174491021,6/17/2025,Beef Sirloin Steak,Food - Meat,Indiana,18,186.29,3353.22
+9140669335,2/1/2025,Folding Exercise Bike,Fitness,Ohio,19,2157.45,40991.55
+4399215712,1/9/2025,Multi-Purpose Plant Care Tool,Garden,Texas,11,3842.68,42269.48
+7547729320,4/9/2025,Cushion Covers,Home,New York,46,3111.83,143144.18
+5141357716,11/5/2025,Snack Container Set,Kitchen,District of Columbia,4,3711.36,14845.44
+9098377459,6/2/2025,Travel Orthopedic Pillow,Travel,Virginia,20,165.55,3311
+4591856755,10/29/2025,Adjustable Dog Harness,Pets,Texas,16,95.61,1529.76
+3114697623,12/12/2025,Fitness Tracker Watch,Wearable Tech,Indiana,6,1806.35,10838.1
+8877788577,11/16/2025,Electric Griddle,Kitchen,Florida,5,1370.43,6852.15
+1810050138,7/1/2025,Salsa Verde,Food - Condiments,North Carolina,40,4003.02,160120.8
+2855211158,8/7/2025,Coffee Making Kit,Kitchen,California,14,432.1,6049.4
+0291926177,9/1/2025,Ramen Noodle Soup Cups,Food - Prepared Meals,Washington,7,4217.01,29519.07
+2413495983,11/14/2025,Italian Marinara Sauce,Food - Sauces,Colorado,31,1698.7,52659.7
+4062176815,6/21/2025,Brown Rice,Food - Grains,Missouri,37,3073.33,113713.21
+3359545559,4/11/2025,Smart WiFi Plug,Smart Home,Pennsylvania,9,2132.85,19195.65
+0995081980,6/6/2025,Cat Scratching Post with Toys,Pets,Nebraska,38,2881.06,109480.28
+2635402604,7/9/2025,Handheld Vacuum,Home Appliances,Nevada,16,1327.73,21243.68
+6388086497,9/28/2025,Automatic Pet Feeder,Pets,Georgia,33,4572.36,150887.88
+7477041430,5/3/2025,Red Lentil Pasta,Food - Pasta,Connecticut,21,4980.07,104581.47
