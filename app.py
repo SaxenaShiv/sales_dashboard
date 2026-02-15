@@ -14,11 +14,11 @@ from core.scenario import baseline_metrics, simulate_scenario
 
 # ---------------- CONFIG ----------------
 st.set_page_config(
-    page_title="Sales Intelligence Platform",
+    page_title="E-commerce Revenue Intelligence & Forecasting System",
     layout="wide"
 )
 
-st.title("📊 Sales Intelligence & Decision Platform")
+st.title("📊 E-commerce Revenue Intelligence & Forecasting System")
 
 # ---------------- DATA LOAD ----------------
 @st.cache_data
